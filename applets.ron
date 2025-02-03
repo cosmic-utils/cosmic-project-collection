@@ -60,6 +60,12 @@ Applets(
       description: "GameMode status applet",
       repo: "https://github.com/D-Brox/cosmic-ext-applet-gamemode-status",
       image: "https://raw.githubusercontent.com/D-Brox/cosmic-ext-applet-gamemode-status/main/res/screenshot1.png"
+    ),
+    (
+      name: "cosmic-ext-applet-caffeine",
+      description: "Prevents your screen from going to sleep",
+      repo: "https://github.com/tropicbliss/cosmic-ext-applet-caffeine",
+      image: "https://raw.githubusercontent.com/tropicbliss/cosmic-ext-applet-caffeine/refs/heads/main/res/screenshot.png"
     )
   ]
 )
