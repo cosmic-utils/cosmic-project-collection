@@ -15,6 +15,12 @@ Applets(
       image: "https://preview.redd.it/here-there-are-cosmics-version-of-gnomes-popular-extension-v0-1vmlqqpeh9pc1.png?width=1920&format=png&auto=webp&s=fdfdffdb3e515a52651ab4e4c7496fc2ef686f7b"
     ),
     (
+      name: "cosmic-classic-menu",
+      description: "Menu applet for launching applications",
+      repo: "https://github.com/championpeak87/cosmic-classic-menu",
+      image: "https://raw.githubusercontent.com/championpeak87/cosmic-classic-menu/refs/heads/main/cosmic-classic-menu.png"
+    ),
+    (
       name: "clipboard-manager",
       description: "Clipboard manager for COSMIC™",
       repo: "https://github.com/wiiznokes/clipboard-manager",
