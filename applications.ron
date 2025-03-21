@@ -71,7 +71,7 @@ Applications(
     (
       name: "bodev",
       description: "Low level dev tools",
-      repo: "https://gitlab.com/sgued/bodev",
+      repo: "https://codeberg.org/sgued/bodev",
       image: "https://bodev.sgued.fr/screenshot-ascii-light.png",
     ),
   ]
