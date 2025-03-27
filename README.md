@@ -31,6 +31,7 @@ A collection of COSMIC projects developed by the community.
 | [cosmic-ext-applet-system-monitor](https://github.com/D-Brox/cosmic-ext-applet-system-monitor) | Configurable system monitor applet | <img src="https://github.com/D-Brox/cosmic-ext-applet-system-monitor/raw/master/res/screenshot.png" alt="cosmic-ext-applet-system-monitor" width="200"/> |
 | [cosmic-ext-applet-gamemode-status](https://github.com/D-Brox/cosmic-ext-applet-gamemode-status) | GameMode status applet | <img src="https://raw.githubusercontent.com/D-Brox/cosmic-ext-applet-gamemode-status/main/res/screenshot1.png" alt="cosmic-ext-applet-gamemode-status" width="200"/> |
 | [cosmic-ext-applet-caffeine](https://github.com/tropicbliss/cosmic-ext-applet-caffeine) | Prevents your screen from going to sleep | <img src="https://raw.githubusercontent.com/tropicbliss/cosmic-ext-applet-caffeine/refs/heads/main/res/screenshot.png" alt="cosmic-ext-applet-caffeine" width="200"/> |
+| [cosmic-ext-applet-privacy-indicator](https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator) | Privacy Indicator applet for COSMIC | <img src="https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator/raw/master/res/screenshot.png" alt="cosmic-ext-applet-privacy-indicator" width="200"/> |
 
 ## Services
 | Name | Description | Image |
