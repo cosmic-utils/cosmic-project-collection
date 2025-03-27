@@ -66,6 +66,12 @@ Applets(
       description: "Prevents your screen from going to sleep",
       repo: "https://github.com/tropicbliss/cosmic-ext-applet-caffeine",
       image: "https://raw.githubusercontent.com/tropicbliss/cosmic-ext-applet-caffeine/refs/heads/main/res/screenshot.png"
+    ),
+    (
+      name: "cosmic-ext-applet-privacy-indicator",
+      description: "Privacy Indicator applet for COSMIC",
+      repo: "https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator",
+      image: "https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator/raw/master/res/screenshot.png"
     )
   ]
 )
