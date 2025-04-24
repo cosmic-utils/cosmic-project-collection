@@ -72,6 +72,12 @@ Applets(
       description: "Privacy Indicator applet for COSMIC",
       repo: "https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator",
       image: "https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator/raw/master/res/screenshot.png"
+    ),
+    (
+      name: "cosmic-ext-applet-yt-dlp",
+      description: "A simple yt-dlp GUI for the COSMIC DE",
+      repo: "https://github.com/D-Brox/cosmic-ext-applet-yt-dlp",
+      image: "https://github.com/D-Brox/cosmic-ext-applet-yt-dlp/raw/master/res/screenshot.png"
     )
   ]
 )
