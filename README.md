@@ -44,7 +44,7 @@ A collection of COSMIC projects developed by the community.
 | Name | Description | Image |
 |---|---|---|
 | [catppuccin](https://github.com/catppuccin/cosmic-desktop) | Soothing pastel theme for COSMIC Desktop Environment | <img src="https://raw.githubusercontent.com/catppuccin/cosmic-desktop/main/assets/preview.webp" alt="catppuccin" width="200"/> |
-| [cosmic-themes-org-py](https://github.com/Fingel/cosmic-themes-org-py) | Website for https://cosmic-themes.org | <img src="" alt="cosmic-themes-org-py" width="200"/> |
+| [cosmic-themes](https://github.com/Fingel/cosmic-themes-org-py) | Website for https://cosmic-themes.org | <img src="https://raw.githubusercontent.com/Fingel/cosmic-themes-org-py/refs/heads/main/static/img/logo.webp" alt="cosmic-themes" width="200"/> |
 
 ## Scripts
 | Name | Description | Image |
