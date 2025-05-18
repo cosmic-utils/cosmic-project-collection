@@ -1,4 +1,4 @@
-<img src="header.png" alt="header"/>
+<img src="header.png"/>
 
 ## Applications
 | Name | Description | Image |
