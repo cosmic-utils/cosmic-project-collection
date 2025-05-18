@@ -30,6 +30,7 @@ Applets(
       name: "cosmic-noise",
       description: "Applet for playing background noise",
       repo: "https://github.com/bq-wrongway/cosmic-noise",
+      image: "https://raw.githubusercontent.com/bq-wrongway/cosmic-noise/refs/heads/main/resources/screenshots/dark.png"
     ),
     (
       name: "cosmic-applet-ollama",
