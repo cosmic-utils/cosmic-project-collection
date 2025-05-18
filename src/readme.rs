@@ -8,8 +8,7 @@ pub fn generate() -> std::io::Result<()> {
     let services: Services = ron::from_str(include_str!("../services.ron")).unwrap();
     let scripts: Scripts = ron::from_str(include_str!("../scripts.ron")).unwrap();
 
-    readme.push_str("# COSMIC Project Collection\n");
-    readme.push_str("A collection of COSMIC projects developed by the community.\n\n");
+    readme.push_str("<img src=\"header.png\"/>\n\n");
 
     write_applications(&mut readme, applications);
     write_applets(&mut readme, applets);
