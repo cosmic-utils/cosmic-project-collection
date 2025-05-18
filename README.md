@@ -1,4 +1,5 @@
-<img src="header.png" alt="header" />
+# COSMIC Project Collection
+A collection of COSMIC projects developed by the community.
 
 ## Applications
 | Name | Description | Image |
