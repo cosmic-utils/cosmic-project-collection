@@ -30,7 +30,7 @@ Applications(
       name: "cosmic-color-picker",
       description: "A color picker for COSMIC.",
       repo: "https://github.com/PixelDoted/cosmic-color-picker",
-      image: "https://raw.githubusercontent.com/PixelDoted/cosmic-color-picker/main/preview.png"
+      image: "https://raw.githubusercontent.com/PixelDoted/cosmic-ext-color-picker/refs/heads/main/res/screenshots/theme_dark.png"
     ),
     (
       name: "oboete",
