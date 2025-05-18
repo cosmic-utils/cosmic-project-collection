@@ -15,6 +15,12 @@ Applications(
       image: "https://raw.githubusercontent.com/edfloreshz/cosmic-ext-calculator/main/res/screenshots/window-light.png"
     ),
     (
+      name: "cosmic-ext-tweaks",
+      description: " A tweaking tool for the COSMIC desktop.",
+      repo: "https://github.com/cosmic-utils/tweaks",
+      image: "https://raw.githubusercontent.com/cosmic-utils/tweaks/refs/heads/main/res/screenshots/color-schemes-light.png"
+    ),
+    (
       name: "fan-control",
       description: "Control your fans with different behaviors.",
       repo: "https://github.com/wiiznokes/fan-control",
