@@ -24,7 +24,7 @@ Applications(
       name: "cosmic-webapps",
       description: "Web App Manager for Cosmic desktop written with love and libcosmic. Allow you to simply create web applications from given url working inside separate window of your browser of choice.",
       repo: "https://github.com/elevenhsoft/WebApps",
-      image: "https://raw.githubusercontent.com/elevenhsoft/WebApps/0.3.5/res/screenshots/window-dark.png"
+      image: "https://raw.githubusercontent.com/cosmic-utils/web-apps/refs/tags/1.0.0/res/screenshots/window-dark.png"
     ),
     (
       name: "cosmic-color-picker",
