@@ -9,16 +9,16 @@ Applications(
       image: "https://raw.githubusercontent.com/edfloreshz/tasks/main/res/screenshots/window-light.png"
     ),
     (
-      name: "cosmic-ext-calculator",
-      description: "A calculator application for the COSMIC desktop.",
-      repo: "https://github.com/edfloreshz/cosmic-ext-calculator",
-      image: "https://raw.githubusercontent.com/edfloreshz/cosmic-ext-calculator/main/res/screenshots/window-light.png"
-    ),
-    (
       name: "cosmic-ext-tweaks",
       description: " A tweaking tool for the COSMIC desktop.",
       repo: "https://github.com/cosmic-utils/tweaks",
       image: "https://raw.githubusercontent.com/cosmic-utils/tweaks/refs/heads/main/res/screenshots/color-schemes-light.png"
+    ),
+    (
+      name: "cosmic-ext-calculator",
+      description: "A calculator application for the COSMIC desktop.",
+      repo: "https://github.com/edfloreshz/cosmic-ext-calculator",
+      image: "https://raw.githubusercontent.com/edfloreshz/cosmic-ext-calculator/main/res/screenshots/window-light.png"
     ),
     (
       name: "fan-control",
