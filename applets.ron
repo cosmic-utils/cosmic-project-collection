@@ -78,6 +78,12 @@ Applets(
       description: "A simple yt-dlp GUI for the COSMIC DE",
       repo: "https://github.com/D-Brox/cosmic-ext-applet-yt-dlp",
       image: "https://github.com/D-Brox/cosmic-ext-applet-yt-dlp/raw/master/res/screenshot.png"
+    ),
+    (
+      name: "cosmic-applet-logomenu",
+      description: "A simple quick access menu to collect your launcher options in one place with the logo of your choice.
+      repo: "https://github.com/cappsyco/cosmic-applet-logomenu",
+      image: "https://github.com/cappsyco/cosmic-applet-logomenu/blob/main/screenshots/cosmic-applet-logomenu.png?raw=true"
     )
   ]
 )
