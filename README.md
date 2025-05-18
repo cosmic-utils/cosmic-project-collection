@@ -1,5 +1,4 @@
-# COSMIC Project Collection
-A collection of COSMIC projects developed by the community.
+<img src="header.png" alt="header" />
 
 ## Applications
 | Name | Description | Image |
