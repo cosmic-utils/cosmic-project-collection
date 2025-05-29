@@ -34,6 +34,7 @@
 | [cosmic-ext-applet-privacy-indicator](https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator) | Privacy Indicator applet for COSMIC | <img src="https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator/raw/master/res/screenshot.png" alt="cosmic-ext-applet-privacy-indicator" width="200"/> |
 | [cosmic-ext-applet-yt-dlp](https://github.com/D-Brox/cosmic-ext-applet-yt-dlp) | A simple yt-dlp GUI for the COSMIC DE | <img src="https://github.com/D-Brox/cosmic-ext-applet-yt-dlp/raw/master/res/screenshot.png" alt="cosmic-ext-applet-yt-dlp" width="200"/> |
 | [cosmic-applet-logomenu](https://github.com/cappsyco/cosmic-applet-logomenu) | A simple quick access menu to collect your launcher options in one place with the logo of your choice. | <img src="https://github.com/cappsyco/cosmic-applet-logomenu/blob/main/screenshots/cosmic-applet-logomenu.png?raw=true" alt="cosmic-applet-logomenu" width="200"/> |
+| [cosmic-applet-ram-usage](https://github.com/samvv/cosmic-applet-ram-usage) | An applet for the Cosmic DE that displays current total RAM usage | <img src="https://github.com/samvv/cosmic-applet-ram-usage/raw/main/screenshot.png" alt="cosmic-applet-ram-usage" width="200"/> |
 
 ## Services
 | Name | Description | Image |
