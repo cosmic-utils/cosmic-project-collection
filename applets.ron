@@ -85,6 +85,12 @@ Applets(
       description: "A simple quick access menu to collect your launcher options in one place with the logo of your choice.",
       repo: "https://github.com/cappsyco/cosmic-applet-logomenu",
       image: "https://github.com/cappsyco/cosmic-applet-logomenu/blob/main/screenshots/cosmic-applet-logomenu.png?raw=true"
+    ),
+    (
+      name: "cosmic-applet-ram-usage",
+      description: "An applet for the Cosmic DE that displays current total RAM usage",
+      repo: "https://github.com/samvv/cosmic-applet-ram-usage",
+      image: "https://github.com/samvv/cosmic-applet-ram-usage/raw/main/screenshot.png",
     )
   ]
 )
