@@ -16,6 +16,7 @@
 | [cosmic-ext-2048](https://github.com/Kartonrealista/cosmic-ext-2048) | A 2048 game written in libcosmic and Rust | <img src="https://raw.githubusercontent.com/Kartonrealista/cosmic-ext-2048/main/screenshots/s1.png" alt="cosmic-ext-2048" width="200"/> |
 | [cosmicding](https://github.com/vkhitrin/cosmicding) | linkding companion app for COSMIC™ | <img src="https://raw.githubusercontent.com/vkhitrin/cosmicding/main/res/screenshots/bookmarks.png" alt="cosmicding" width="200"/> |
 | [bodev](https://codeberg.org/sgued/bodev) | Low level dev tools | <img src="https://bodev.sgued.fr/screenshot-ascii-light.png" alt="bodev" width="200"/> |
+| [cosmic-applet-ram-usage](https://github.com/samvv/cosmic-applet-ram-usage) | An applet for the Cosmic DE that displays current total RAM usage | <img src="https://github.com/samvv/cosmic-applet-ram-usage/raw/main/screenshot.png" alt="cosmic-applet-ram-usage" width="200"/> |
 
 ## Applets
 | Name | Description | Image |
