@@ -80,5 +80,11 @@ Applications(
       repo: "https://codeberg.org/sgued/bodev",
       image: "https://bodev.sgued.fr/screenshot-ascii-light.png",
     ),
+    (
+      name: "cosmic-applet-ram-usage",
+      description: "An applet for the Cosmic DE that displays current total RAM usage",
+      repo: "https://github.com/samvv/cosmic-applet-ram-usage",
+      image: "https://github.com/samvv/cosmic-applet-ram-usage/raw/main/screenshot.png",
+    ),
   ]
 )
