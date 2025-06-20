@@ -36,6 +36,7 @@ Applets(
       name: "cosmic-noise",
       description: "Applet for playing background noise",
       repo: "https://github.com/bq-wrongway/cosmic-noise",
+      image: "https://raw.githubusercontent.com/bq-wrongway/cosmic-noise/refs/heads/main/resources/screenshots/dark.png"
     ),
     (
       name: "cosmic-applet-ollama",
@@ -72,6 +73,30 @@ Applets(
       description: "Prevents your screen from going to sleep",
       repo: "https://github.com/tropicbliss/cosmic-ext-applet-caffeine",
       image: "https://raw.githubusercontent.com/tropicbliss/cosmic-ext-applet-caffeine/refs/heads/main/res/screenshot.png"
+    ),
+    (
+      name: "cosmic-ext-applet-privacy-indicator",
+      description: "Privacy Indicator applet for COSMIC",
+      repo: "https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator",
+      image: "https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator/raw/master/res/screenshot.png"
+    ),
+    (
+      name: "cosmic-ext-applet-yt-dlp",
+      description: "A simple yt-dlp GUI for the COSMIC DE",
+      repo: "https://github.com/D-Brox/cosmic-ext-applet-yt-dlp",
+      image: "https://github.com/D-Brox/cosmic-ext-applet-yt-dlp/raw/master/res/screenshot.png"
+    ),
+    (
+      name: "cosmic-applet-logomenu",
+      description: "A simple quick access menu to collect your launcher options in one place with the logo of your choice.",
+      repo: "https://github.com/cappsyco/cosmic-applet-logomenu",
+      image: "https://github.com/cappsyco/cosmic-applet-logomenu/blob/main/screenshots/cosmic-applet-logomenu.png?raw=true"
+    ),
+    (
+      name: "cosmic-applet-ram-usage",
+      description: "An applet for the Cosmic DE that displays current total RAM usage",
+      repo: "https://github.com/samvv/cosmic-applet-ram-usage",
+      image: "https://github.com/samvv/cosmic-applet-ram-usage/raw/main/screenshot.png",
     )
   ]
 )

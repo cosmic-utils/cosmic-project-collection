@@ -3,13 +3,19 @@
 Applications(
   list: [
     (
-      name: "tasks",
+      name: "Tasks",
       description: "A simple task management application for the COSMIC desktop.",
       repo: "https://github.com/edfloreshz/tasks",
       image: "https://raw.githubusercontent.com/edfloreshz/tasks/main/res/screenshots/window-light.png"
     ),
     (
-      name: "cosmic-ext-calculator",
+      name: "Tweaks for COSMIC™",
+      description: " A tweaking tool for the COSMIC desktop.",
+      repo: "https://github.com/cosmic-utils/tweaks",
+      image: "https://raw.githubusercontent.com/cosmic-utils/tweaks/refs/heads/main/res/screenshots/color-schemes-light.png"
+    ),
+    (
+      name: "Calculator",
       description: "A calculator application for the COSMIC desktop.",
       repo: "https://github.com/edfloreshz/cosmic-ext-calculator",
       image: "https://raw.githubusercontent.com/edfloreshz/cosmic-ext-calculator/main/res/screenshots/window-light.png"
@@ -24,13 +30,13 @@ Applications(
       name: "cosmic-webapps",
       description: "Web App Manager for Cosmic desktop written with love and libcosmic. Allow you to simply create web applications from given url working inside separate window of your browser of choice.",
       repo: "https://github.com/elevenhsoft/WebApps",
-      image: "https://raw.githubusercontent.com/elevenhsoft/WebApps/0.3.5/res/screenshots/window-dark.png"
+      image: "https://raw.githubusercontent.com/cosmic-utils/web-apps/refs/tags/1.0.0/res/screenshots/window-dark.png"
     ),
     (
       name: "cosmic-color-picker",
       description: "A color picker for COSMIC.",
       repo: "https://github.com/PixelDoted/cosmic-color-picker",
-      image: "https://raw.githubusercontent.com/PixelDoted/cosmic-color-picker/main/preview.png"
+      image: "https://raw.githubusercontent.com/PixelDoted/cosmic-ext-color-picker/refs/heads/main/res/screenshots/theme_dark.png"
     ),
     (
       name: "oboete",
@@ -71,8 +77,8 @@ Applications(
     (
       name: "bodev",
       description: "Low level dev tools",
-      repo: "https://gitlab.com/sgued/bodev",
+      repo: "https://codeberg.org/sgued/bodev",
       image: "https://bodev.sgued.fr/screenshot-ascii-light.png",
-    ),
+    )
   ]
 )

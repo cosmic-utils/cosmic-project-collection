@@ -9,10 +9,10 @@ Themes(
       image: "https://raw.githubusercontent.com/catppuccin/cosmic-desktop/main/assets/preview.webp"
     ),
     (
-      name: "cosmic-themes-org-py",
+      name: "cosmic-themes",
       description: "Website for https://cosmic-themes.org",
       repo: "https://github.com/Fingel/cosmic-themes-org-py",
-      image: ""
+      image: "https://raw.githubusercontent.com/Fingel/cosmic-themes-org-py/refs/heads/main/static/img/logo.webp"
     )
   ]
 )
