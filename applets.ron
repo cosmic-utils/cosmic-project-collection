@@ -18,13 +18,13 @@ Applets(
       name: "cosmic-classic-menu",
       description: "Menu applet for launching applications",
       repo: "https://github.com/championpeak87/cosmic-classic-menu",
-      image: "https://raw.githubusercontent.com/championpeak87/cosmic-classic-menu/refs/heads/main/cosmic-classic-menu.png"
+      image: "https://raw.githubusercontent.com/championpeak87/cosmic-classic-menu/master/cosmic-classic-menu.png"
     ),
     (
       name: "clipboard-manager",
       description: "Clipboard manager for COSMIC™",
-      repo: "https://github.com/wiiznokes/clipboard-manager",
-      image: "https://media.githubusercontent.com/media/wiiznokes/clipboard-manager/master/res/screenshots/main_popup.png"
+      repo: "https://github.com/cosmic-utils/clipboard-manager",
+      image: "https://media.githubusercontent.com/media/cosmic-utils/clipboard-manager/master/res/screenshots/main_popup.png"
     ),
     (
       name: "cosmic-applet-emoji-selector",
@@ -36,7 +36,7 @@ Applets(
       name: "cosmic-noise",
       description: "Applet for playing background noise",
       repo: "https://github.com/bq-wrongway/cosmic-noise",
-      image: "https://raw.githubusercontent.com/bq-wrongway/cosmic-noise/refs/heads/main/resources/screenshots/dark.png"
+      image: "https://raw.githubusercontent.com/bq-wrongway/cosmic-noise/refs/heads/main/assets/screenshots/new1.png"
     ),
     (
       name: "cosmic-applet-ollama",
@@ -47,8 +47,8 @@ Applets(
     (
       name: "cosmic-ext-applet-external-monitor-brightness",
       description: "Change brightness of external monitors via DDC/CI protocol",
-      repo: "https://github.com/maciekk64/cosmic-ext-applet-external-monitor-brightness",
-      image: "https://raw.githubusercontent.com/maciekk64/cosmic-ext-applet-external-monitor-brightness/master/res/screenshot1.png"
+      repo: "https://github.com/cosmic-utils/cosmic-ext-applet-external-monitor-brightness",
+      image: "https://media.githubusercontent.com/media/cosmic-utils/cosmic-ext-applet-external-monitor-brightness/refs/heads/master/res/screenshot1.png"
     ),
     (
       name: "cosmic-applet-minimon",
