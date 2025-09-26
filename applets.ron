@@ -97,6 +97,12 @@ Applets(
       description: "An applet for the Cosmic DE that displays current total RAM usage",
       repo: "https://github.com/samvv/cosmic-applet-ram-usage",
       image: "https://github.com/samvv/cosmic-applet-ram-usage/raw/main/screenshot.png",
+    ),
+    (
+      name: "cosmic-applet-vitals",
+      description: "A minimal configurable applet to display basic system resource usage",
+      repo: "https://github.com/Coinio/cosmic-vitals",
+      image: "https://github.com/Coinio/cosmic-vitals/blob/main/res/screenshots/main-image.png"
     )
   ]
 )
