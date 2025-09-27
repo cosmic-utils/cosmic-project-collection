@@ -103,6 +103,12 @@ Applets(
       description: "A minimal configurable applet to display basic system resource usage",
       repo: "https://github.com/Coinio/cosmic-vitals",
       image: "https://github.com/Coinio/cosmic-vitals/blob/main/res/screenshots/main-image.png"
+    ),
+    (
+      name: "cosmic-applet-vitals",
+      description: "A Music Player control applet for COSMIC panel",
+      repo: "https://github.com/Ebbo/cosmic-applet-music-player",
+      image: "https://raw.githubusercontent.com/Ebbo/cosmic-applet-music-player/master/Music_Player_Applet_Controls.png"
     )
   ]
 )
