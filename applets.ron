@@ -105,7 +105,7 @@ Applets(
       image: "https://github.com/Coinio/cosmic-vitals/blob/main/res/screenshots/main-image.png"
     ),
     (
-      name: "cosmic-applet-vitals",
+      name: "cosmic-applet-music-player",
       description: "A Music Player control applet for COSMIC panel",
       repo: "https://github.com/Ebbo/cosmic-applet-music-player",
       image: "https://raw.githubusercontent.com/Ebbo/cosmic-applet-music-player/master/Music_Player_Applet_Controls.png"
