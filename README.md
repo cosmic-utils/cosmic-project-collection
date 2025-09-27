@@ -37,6 +37,7 @@
 | [cosmic-applet-logomenu](https://github.com/cappsyco/cosmic-applet-logomenu) | A simple quick access menu to collect your launcher options in one place with the logo of your choice. | <img src="https://github.com/cappsyco/cosmic-applet-logomenu/blob/main/screenshots/cosmic-applet-logomenu.png?raw=true" alt="cosmic-applet-logomenu" width="200"/> |
 | [cosmic-applet-ram-usage](https://github.com/samvv/cosmic-applet-ram-usage) | An applet for the Cosmic DE that displays current total RAM usage | <img src="https://github.com/samvv/cosmic-applet-ram-usage/raw/main/screenshot.png" alt="cosmic-applet-ram-usage" width="200"/> |
 | [cosmic-applet-vitals](https://github.com/Coinio/cosmic-vitals) | A minimal configurable applet to display basic system resource usage | <img src="https://github.com/Coinio/cosmic-vitals/blob/main/res/screenshots/main-image.png" alt="cosmic-applet-vitals" width="200"/> |
+| [cosmic-applet-music-player](https://github.com/Ebbo/cosmic-applet-music-player) | A Music Player control applet for COSMIC panel | <img src="https://raw.githubusercontent.com/Ebbo/cosmic-applet-music-player/master/Music_Player_Applet_Controls.png" alt="cosmic-applet-music-player" width="200"/> |
 
 ## Services
 | Name | Description | Image |
