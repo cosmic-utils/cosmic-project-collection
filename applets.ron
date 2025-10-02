@@ -102,7 +102,7 @@ Applets(
       name: "cosmic-applet-vitals",
       description: "A minimal configurable applet to display basic system resource usage",
       repo: "https://github.com/Coinio/cosmic-vitals",
-      image: "https://github.com/Coinio/cosmic-vitals/blob/main/res/screenshots/main-image.png"
+      image: "https://raw.githubusercontent.com/Coinio/cosmic-vitals/main/res/screenshots/main-image.png"
     ),
     (
       name: "cosmic-applet-music-player",
