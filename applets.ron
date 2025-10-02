@@ -99,10 +99,10 @@ Applets(
       image: "https://github.com/samvv/cosmic-applet-ram-usage/raw/main/screenshot.png",
     ),
     (
-      name: "cosmic-applet-vitals",
+      name: "cosmic-ext-applet-vitals",
       description: "A minimal configurable applet to display basic system resource usage",
-      repo: "https://github.com/Coinio/cosmic-vitals",
-      image: "https://raw.githubusercontent.com/Coinio/cosmic-vitals/main/res/screenshots/main-image.png"
+      repo: "https://github.com/Coinio/cosmic-ext-applet-vitals",
+      image: "https://raw.githubusercontent.com/Coinio/cosmic-ext-applet-vitals/main/res/screenshots/main-image.png"
     ),
     (
       name: "cosmic-applet-music-player",
