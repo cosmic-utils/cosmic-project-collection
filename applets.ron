@@ -109,6 +109,12 @@ Applets(
       description: "A Music Player control applet for COSMIC panel",
       repo: "https://github.com/Ebbo/cosmic-applet-music-player",
       image: "https://raw.githubusercontent.com/Ebbo/cosmic-applet-music-player/master/Music_Player_Applet_Controls.png"
+    ),
+    (
+      name: "cosmic-applet-package-updater",
+      description: "Package update notifier applet for the COSMIC desktop",
+      repo: "https://github.com/Ebbo/cosmic-applet-package-updater",
+      image: "https://raw.githubusercontent.com/Ebbo/cosmic-applet-package-updater/master/screenshots/Package-Updater-Main.png"
     )
   ]
 )
