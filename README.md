@@ -38,6 +38,7 @@
 | [cosmic-applet-ram-usage](https://github.com/samvv/cosmic-applet-ram-usage) | An applet for the Cosmic DE that displays current total RAM usage | <img src="https://github.com/samvv/cosmic-applet-ram-usage/raw/main/screenshot.png" alt="cosmic-applet-ram-usage" width="200"/> |
 | [cosmic-ext-applet-vitals](https://github.com/Coinio/cosmic-ext-applet-vitals) | A minimal configurable applet to display basic system resource usage | <img src="https://raw.githubusercontent.com/Coinio/cosmic-ext-applet-vitals/main/res/screenshots/main-image.png" alt="cosmic-ext-applet-vitals" width="200"/> |
 | [cosmic-applet-music-player](https://github.com/Ebbo/cosmic-applet-music-player) | A Music Player control applet for COSMIC panel | <img src="https://raw.githubusercontent.com/Ebbo/cosmic-applet-music-player/master/Music_Player_Applet_Controls.png" alt="cosmic-applet-music-player" width="200"/> |
+| [cosmic-applet-package-updater](https://github.com/Ebbo/cosmic-applet-package-updater) | Package update notifier applet for the COSMIC desktop | <img src="https://raw.githubusercontent.com/Ebbo/cosmic-applet-package-updater/master/screenshots/Package-Updater-Main.png" alt="cosmic-applet-package-updater" width="200"/> |
 
 ## Services
 | Name | Description | Image |
