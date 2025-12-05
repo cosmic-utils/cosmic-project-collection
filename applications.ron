@@ -79,6 +79,12 @@ Applications(
       description: "Low level dev tools",
       repo: "https://codeberg.org/sgued/bodev",
       image: "https://bodev.sgued.fr/screenshot-ascii-light.png",
+    ),
+    (
+      name: "Subscribi",
+      description: "Track all your subscriptions easily (and privately)",
+      repo: "https://codeberg.org/Tony4dev/subscribi",
+      image: "https://codeberg.org/Tony4dev/subscribi/raw/branch/main/resources/screenshots/overview.png",
     )
   ]
 )
