@@ -115,6 +115,12 @@ Applets(
       description: "Package update notifier applet for the COSMIC desktop",
       repo: "https://github.com/Ebbo/cosmic-applet-package-updater",
       image: "https://raw.githubusercontent.com/Ebbo/cosmic-applet-package-updater/master/screenshots/Package-Updater-Main.png"
+    ),
+    (
+      name: "cosmic-applet-systemstats",
+      description: "Compact system monitor with CPU/GPU temps, memory, and network speeds",
+      repo: "https://github.com/rylan-x/cosmic-applet-systemstats",
+      image: "https://raw.githubusercontent.com/rylan-x/cosmic-applet-systemstats/main/res/screenshots/systemstats.png"
     )
   ]
 )
