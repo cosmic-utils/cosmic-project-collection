@@ -85,6 +85,12 @@ Applications(
       description: "Track all your subscriptions easily (and privately)",
       repo: "https://codeberg.org/Tony4dev/subscribi",
       image: "https://codeberg.org/Tony4dev/subscribi/raw/branch/main/resources/screenshots/overview.png",
+    ),
+    (
+      name: "Super STT - With COSMIC Visualizer",
+      description: "Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally.",
+      repo: "https://github.com/jorge-menjivar/super-stt",
+      image: "https://raw.githubusercontent.com/jorge-menjivar/super-stt/refs/heads/main/.github/assets/demo-smaller.gif"
     )
   ]
 )
