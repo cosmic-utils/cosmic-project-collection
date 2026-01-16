@@ -85,6 +85,12 @@ Applications(
       description: "Track all your subscriptions easily (and privately)",
       repo: "https://codeberg.org/Tony4dev/subscribi",
       image: "https://codeberg.org/Tony4dev/subscribi/raw/branch/main/resources/screenshots/overview.png",
+    ),
+    (
+      name: "Cupola",
+      description: "An image viewer built for the COSMIC Desktop.",
+      repo: "https://codeberg.org/bhh32/cupola",
+      image: "https://codeberg.org/bhh32/cupola/src/branch/main/screenshots/gallery_view.png",
     )
   ]
 )
