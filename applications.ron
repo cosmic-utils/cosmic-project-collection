@@ -90,7 +90,7 @@ Applications(
       name: "Cupola",
       description: "An image viewer built for the COSMIC Desktop.",
       repo: "https://codeberg.org/bhh32/cupola",
-      image: "https://codeberg.org/bhh32/cupola/src/branch/main/screenshots/gallery_view.png",
+      image: "https://codeberg.org/bhh32/cupola/raw/branch/main/screenshots/gallery_view.png",
     )
   ]
 )
