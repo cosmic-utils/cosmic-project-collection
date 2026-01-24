@@ -17,7 +17,7 @@
 | [cosmicding](https://github.com/vkhitrin/cosmicding) | linkding companion app for COSMIC™ | <img src="https://raw.githubusercontent.com/vkhitrin/cosmicding/main/res/screenshots/bookmarks.png" alt="cosmicding" width="200"/> |
 | [bodev](https://codeberg.org/sgued/bodev) | Low level dev tools | <img src="https://bodev.sgued.fr/screenshot-ascii-light.png" alt="bodev" width="200"/> |
 | [Subscribi](https://codeberg.org/Tony4dev/subscribi) | Track all your subscriptions easily (and privately) | <img src="https://codeberg.org/Tony4dev/subscribi/raw/branch/main/resources/screenshots/overview.png" alt="Subscribi" width="200"/> |
-| [Cupola](https://codeberg.org/bhh32/cupola) | An image viewer built for the COSMIC Desktop. | <img src="https://codeberg.org/bhh32/cupola/src/branch/main/screenshots/gallery_view.png" alt="Cupola" width="200"/> |
+| [Cupola](https://codeberg.org/bhh32/cupola) | An image viewer built for the COSMIC Desktop. | <img src="https://codeberg.org/bhh32/cupola/raw/branch/main/screenshots/gallery_view.png" alt="Cupola" width="200"/> |
 
 ## Applets
 | Name | Description | Image |
