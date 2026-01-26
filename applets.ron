@@ -87,10 +87,10 @@ Applets(
       image: "https://github.com/D-Brox/cosmic-ext-applet-yt-dlp/raw/master/res/screenshot.png"
     ),
     (
-      name: "cosmic-applet-logomenu",
-      description: "A simple quick access menu to collect your launcher options in one place with the logo of your choice.",
-      repo: "https://github.com/cappsyco/cosmic-applet-logomenu",
-      image: "https://github.com/cappsyco/cosmic-applet-logomenu/blob/main/screenshots/cosmic-applet-logomenu.png?raw=true"
+      name: "cosmic-ext-applet-logomenu",
+      description: "A simple quick access 'Logo menu' to collect your launcher options in one place with the logo of your choice.",
+      repo: "https://github.com/cosmic-utils/cosmic-ext-applet-logomenu",
+      image: "https://github.com/cosmic-utils/cosmic-ext-applet-logomenu/raw/main/screenshots/cosmic-ext-applet-logomenu.png?raw=true"
     ),
     (
       name: "cosmic-applet-ram-usage",
@@ -121,6 +121,12 @@ Applets(
       description: "Compact system monitor with CPU/GPU temps, memory, and network speeds",
       repo: "https://github.com/rylan-x/cosmic-applet-systemstats",
       image: "https://raw.githubusercontent.com/rylan-x/cosmic-applet-systemstats/main/res/screenshots/systemstats.png"
+    ),
+    (
+      name: "cosmic-ext-applet-dict",
+      description: "An English language dictionary applet, perfect for quick access searching for words and definitions, or cycling through some random words to enrich your knowledge of the English language!",
+      repo: "https://github.com/cosmic-utils/cosmic-ext-applet-dict",
+      image: "https://github.com/cosmic-utils/cosmic-ext-applet-dict/raw/main/resources/screenshots/screen1.jpg?raw=true"
     )
   ]
 )
