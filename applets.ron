@@ -15,10 +15,10 @@ Applets(
       image: "https://preview.redd.it/here-there-are-cosmics-version-of-gnomes-popular-extension-v0-1vmlqqpeh9pc1.png?width=1920&format=png&auto=webp&s=fdfdffdb3e515a52651ab4e4c7496fc2ef686f7b"
     ),
     (
-      name: "cosmic-classic-menu",
+      name: "cosmic-ext-classic-menu",
       description: "Menu applet for launching applications",
-      repo: "https://github.com/championpeak87/cosmic-classic-menu",
-      image: "https://raw.githubusercontent.com/championpeak87/cosmic-classic-menu/master/cosmic-classic-menu.png"
+      repo: "https://github.com/championpeak87/cosmic-ext-classic-menu",
+      image: "https://raw.githubusercontent.com/championpeak87/cosmic-ext-classic-menu/master/screenshots/cosmic-ext-classic-menu-applet.png"
     ),
     (
       name: "clipboard-manager",
@@ -53,8 +53,8 @@ Applets(
     (
       name: "cosmic-applet-minimon",
       description: "Applet for displaying CPU and RAM utilization",
-      repo: "https://github.com/Hyperchaotic/minimon-applet",
-      image: "https://raw.githubusercontent.com/Hyperchaotic/minimon-applet/main/cosmic-applet-minimon.png"
+      repo: "https://github.com/cosmic-utils/minimon-applet",
+      image: "https://raw.githubusercontent.com/cosmic-utils/minimon-applet/main/cosmic-applet-minimon.png"
     ),
     (
       name: "cosmic-ext-applet-system-monitor",
