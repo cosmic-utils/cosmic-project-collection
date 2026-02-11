@@ -1,4 +1,4 @@
-#![enable(implicit_some)]
+``#![enable(implicit_some)]
 
 Applets(
   list: [
@@ -127,6 +127,12 @@ Applets(
       description: "An English language dictionary applet, perfect for quick access searching for words and definitions, or cycling through some random words to enrich your knowledge of the English language!",
       repo: "https://github.com/cosmic-utils/cosmic-ext-applet-dict",
       image: "https://github.com/cosmic-utils/cosmic-ext-applet-dict/raw/main/resources/screenshots/screen1.jpg?raw=true"
+    ),
+    (
+      name: "cosmic-ext-connected",
+      description: "Phone connectivity applet using KDE Connect",
+      repo: "https://github.com/nwxnw/cosmic-connect-applet",
+      image: "https://raw.githubusercontent.com/nwxnw/cosmic-connect-applet/main/screenshots/connected-applet.png"
     )
   ]
 )
