@@ -1,4 +1,4 @@
-``#![enable(implicit_some)]
+#![enable(implicit_some)]
 
 Applets(
   list: [
