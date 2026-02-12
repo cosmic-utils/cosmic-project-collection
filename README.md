@@ -43,6 +43,7 @@
 | [cosmic-applet-package-updater](https://github.com/Ebbo/cosmic-applet-package-updater) | Package update notifier applet for the COSMIC desktop | <img src="https://raw.githubusercontent.com/Ebbo/cosmic-applet-package-updater/master/screenshots/Package-Updater-Main.png" alt="cosmic-applet-package-updater" width="200"/> |
 | [cosmic-applet-systemstats](https://github.com/rylan-x/cosmic-applet-systemstats) | Compact system monitor with CPU/GPU temps, memory, and network speeds | <img src="https://raw.githubusercontent.com/rylan-x/cosmic-applet-systemstats/main/res/screenshots/systemstats.png" alt="cosmic-applet-systemstats" width="200"/> |
 | [cosmic-ext-applet-dict](https://github.com/cosmic-utils/cosmic-ext-applet-dict) | An English language dictionary applet, perfect for quick access searching for words and definitions, or cycling through some random words to enrich your knowledge of the English language! | <img src="https://github.com/cosmic-utils/cosmic-ext-applet-dict/raw/main/resources/screenshots/screen1.jpg?raw=true" alt="cosmic-ext-applet-dict" width="200"/> |
+| [cosmic-ext-connected](https://github.com/nwxnw/cosmic-connect-applet) | Phone connectivity applet using KDE Connect | <img src="https://raw.githubusercontent.com/nwxnw/cosmic-connect-applet/main/screenshots/connected-applet.png" alt="cosmic-ext-connected" width="200"/> |
 
 ## Services
 | Name | Description | Image |
