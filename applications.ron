@@ -91,6 +91,12 @@ Applications(
       description: "An image viewer built for the COSMIC Desktop.",
       repo: "https://codeberg.org/bhh32/cupola",
       image: "https://codeberg.org/bhh32/cupola/raw/branch/main/screenshots/gallery_view.png",
+    ),
+    (
+      name: "Maré Player",
+      description: "TIDAL music streaming for COSMIC™ — Hi-Res FLAC playback, spectrum visualizer, and MPRIS integration. Also builds as a panel applet.",
+      repo: "https://github.com/glima/mare-player",
+      image: "https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_standalone.png"
     )
   ]
 )
