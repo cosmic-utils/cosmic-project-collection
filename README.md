@@ -44,6 +44,7 @@
 | [cosmic-applet-systemstats](https://github.com/rylan-x/cosmic-applet-systemstats) | Compact system monitor with CPU/GPU temps, memory, and network speeds | <img src="https://raw.githubusercontent.com/rylan-x/cosmic-applet-systemstats/main/res/screenshots/systemstats.png" alt="cosmic-applet-systemstats" width="200"/> |
 | [cosmic-ext-applet-dict](https://github.com/cosmic-utils/cosmic-ext-applet-dict) | An English language dictionary applet, perfect for quick access searching for words and definitions, or cycling through some random words to enrich your knowledge of the English language! | <img src="https://github.com/cosmic-utils/cosmic-ext-applet-dict/raw/main/resources/screenshots/screen1.jpg?raw=true" alt="cosmic-ext-applet-dict" width="200"/> |
 | [cosmic-ext-connected](https://github.com/nwxnw/cosmic-connect-applet) | Phone connectivity applet using KDE Connect | <img src="https://raw.githubusercontent.com/nwxnw/cosmic-connect-applet/main/screenshots/connected-applet.png" alt="cosmic-ext-connected" width="200"/> |
+| [cosmic-flux](https://github.com/franz-net/cosmic-flux) | Live wallpaper engine — play video and GIF files as your desktop background with GPU-accelerated decoding, multi-monitor support, and a panel applet for playback controls. | <img src="https://raw.githubusercontent.com/franz-net/cosmic-flux/main/assets/screenshot.png" alt="cosmic-flux" width="200"/> |
 
 ## Services
 | Name | Description | Image |
