@@ -60,6 +60,7 @@
 | Name | Description | Image |
 |---|---|---|
 | [pywal-cosmic-term](https://github.com/dharmik2319/pywal-cosmic-term) | Python script to use your pywal generated color palette with cosmic-term | |
+| [cosmic-ext-window-helper](https://github.com/lapause/cosmic-ext-window-helper) | Utility interacting with COSMIC™ Wayland compositor to provide easy scriptable access to toplevel windows, allowing shortcut-triggerable custom actions: run-or-raise, batch hiding or closing... | |
 
 ## How to add your project?
 To add your project to this list, please open a pull request with your project added to the `applications.ron` or `applets.ron` file.
