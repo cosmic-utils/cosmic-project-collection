@@ -139,6 +139,12 @@ Applets(
       description: "Live wallpaper engine — play video and GIF files as your desktop background with GPU-accelerated decoding, multi-monitor support, and a panel applet for playback controls.",
       repo: "https://github.com/franz-net/cosmic-flux",
       image: "https://raw.githubusercontent.com/franz-net/cosmic-flux/main/assets/screenshot.png"
+    ),
+    (
+      name: "cosmic-applet-mare",
+      description: "TIDAL music streaming applet for COSMIC™ — Hi-Res audio, spectrum visualizer, and MPRIS integration",
+      repo: "https://github.com/glima/mare-player",
+      image: "https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_applet.png"
     )
   ]
 )
