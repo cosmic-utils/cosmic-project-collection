@@ -133,6 +133,12 @@ Applets(
       description: "Phone connectivity applet using KDE Connect",
       repo: "https://github.com/nwxnw/cosmic-connect-applet",
       image: "https://raw.githubusercontent.com/nwxnw/cosmic-connect-applet/main/screenshots/connected-applet.png"
+    ),
+    (
+      name: "cosmic-flux",
+      description: "Live wallpaper engine — play video and GIF files as your desktop background with GPU-accelerated decoding, multi-monitor support, and a panel applet for playback controls.",
+      repo: "https://github.com/franz-net/cosmic-flux",
+      image: "https://raw.githubusercontent.com/franz-net/cosmic-flux/main/assets/screenshot.png"
     )
   ]
 )
