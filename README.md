@@ -18,6 +18,7 @@
 | [bodev](https://codeberg.org/sgued/bodev) | Low level dev tools | <img src="https://bodev.sgued.fr/screenshot-ascii-light.png" alt="bodev" width="200"/> |
 | [Subscribi](https://codeberg.org/Tony4dev/subscribi) | Track all your subscriptions easily (and privately) | <img src="https://codeberg.org/Tony4dev/subscribi/raw/branch/main/resources/screenshots/overview.png" alt="Subscribi" width="200"/> |
 | [Cupola](https://codeberg.org/bhh32/cupola) | An image viewer built for the COSMIC Desktop. | <img src="https://codeberg.org/bhh32/cupola/raw/branch/main/screenshots/gallery_view.png" alt="Cupola" width="200"/> |
+| [Maré Player](https://github.com/glima/mare-player) | TIDAL music streaming for COSMIC™ — Hi-Res FLAC playback, spectrum visualizer, and MPRIS integration. Also builds as a panel applet. | <img src="https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_standalone.png" alt="Maré Player" width="200"/> |
 
 ## Applets
 | Name | Description | Image |
@@ -45,6 +46,7 @@
 | [cosmic-ext-applet-dict](https://github.com/cosmic-utils/cosmic-ext-applet-dict) | An English language dictionary applet, perfect for quick access searching for words and definitions, or cycling through some random words to enrich your knowledge of the English language! | <img src="https://github.com/cosmic-utils/cosmic-ext-applet-dict/raw/main/resources/screenshots/screen1.jpg?raw=true" alt="cosmic-ext-applet-dict" width="200"/> |
 | [cosmic-ext-connected](https://github.com/nwxnw/cosmic-connect-applet) | Phone connectivity applet using KDE Connect | <img src="https://raw.githubusercontent.com/nwxnw/cosmic-connect-applet/main/screenshots/connected-applet.png" alt="cosmic-ext-connected" width="200"/> |
 | [cosmic-flux](https://github.com/franz-net/cosmic-flux) | Live wallpaper engine — play video and GIF files as your desktop background with GPU-accelerated decoding, multi-monitor support, and a panel applet for playback controls. | <img src="https://raw.githubusercontent.com/franz-net/cosmic-flux/main/assets/screenshot.png" alt="cosmic-flux" width="200"/> |
+| [cosmic-applet-mare](https://github.com/glima/mare-player) | TIDAL music streaming applet for COSMIC™ — Hi-Res audio, spectrum visualizer, and MPRIS integration | <img src="https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_applet.png" alt="cosmic-applet-mare" width="200"/> |
 
 ## Services
 | Name | Description | Image |
