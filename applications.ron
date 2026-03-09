@@ -42,13 +42,13 @@ Applications(
       name: "oboete",
       description: "A simple flashcards application for the COSMIC™ desktop.",
       repo: "https://github.com/mariinkys/oboete",
-      image: "https://raw.githubusercontent.com/mariinkys/oboete/main/res/screenshots/study-dark.png"
+      image: "https://raw.githubusercontent.com/mariinkys/oboete/main/resources/screenshots/study-dark.png"
     ),
     (
       name: "starry-dex",
       description: "Pokédex application for the COSMIC™ desktop.",
       repo: "https://github.com/mariinkys/starrydex",
-      image: "https://raw.githubusercontent.com/mariinkys/starrydex/main/screenshots/pokemon.png"
+      image: "https://raw.githubusercontent.com/mariinkys/starrydex/main/resources/screenshots/pokemon-dark.png"
     ),
     (
       name: "cosmic-dirstat",
@@ -91,6 +91,18 @@ Applications(
       description: "Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally.",
       repo: "https://github.com/jorge-menjivar/super-stt",
       image: "https://raw.githubusercontent.com/jorge-menjivar/super-stt/refs/heads/main/.github/assets/demo-smaller.gif"
+    ),
+    (
+      name: "Cupola",
+      description: "An image viewer built for the COSMIC Desktop.",
+      repo: "https://codeberg.org/bhh32/cupola",
+      image: "https://codeberg.org/bhh32/cupola/raw/branch/main/screenshots/gallery_view.png",
+    ),
+    (
+      name: "Maré Player",
+      description: "TIDAL music streaming for COSMIC™ — Hi-Res FLAC playback, spectrum visualizer, and MPRIS integration. Also builds as a panel applet.",
+      repo: "https://github.com/glima/mare-player",
+      image: "https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_standalone.png"
     )
   ]
 )
