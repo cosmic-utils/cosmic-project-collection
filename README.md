@@ -47,6 +47,7 @@
 | [cosmic-ext-connected](https://github.com/nwxnw/cosmic-connect-applet) | Phone connectivity applet using KDE Connect | <img src="https://raw.githubusercontent.com/nwxnw/cosmic-connect-applet/main/screenshots/connected-applet.png" alt="cosmic-ext-connected" width="200"/> |
 | [cosmic-flux](https://github.com/franz-net/cosmic-flux) | Live wallpaper engine — play video and GIF files as your desktop background with GPU-accelerated decoding, multi-monitor support, and a panel applet for playback controls. | <img src="https://raw.githubusercontent.com/franz-net/cosmic-flux/main/assets/screenshot.png" alt="cosmic-flux" width="200"/> |
 | [cosmic-applet-mare](https://github.com/glima/mare-player) | TIDAL music streaming applet for COSMIC™ — Hi-Res audio, spectrum visualizer, and MPRIS integration | <img src="https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_applet.png" alt="cosmic-applet-mare" width="200"/> |
+| [cosmic-pomodoro](https://github.com/petar030/cosmic-pomodoro) | Simple Pomodoro applet for COSMIC Desktop | <img src="https://raw.githubusercontent.com/petar030/cosmic-pomodoro/master/img/GruvboxDark.png" alt="cosmic-pomodoro" width="200"/> |
 
 ## Services
 | Name | Description | Image |
