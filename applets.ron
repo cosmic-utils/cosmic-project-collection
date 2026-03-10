@@ -145,6 +145,12 @@ Applets(
       description: "TIDAL music streaming applet for COSMIC™ — Hi-Res audio, spectrum visualizer, and MPRIS integration",
       repo: "https://github.com/glima/mare-player",
       image: "https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_applet.png"
+    ),
+    (
+      name: "cosmic-pomodoro",
+      description: "Simple Pomodoro applet for COSMIC Desktop",
+      repo: "https://github.com/petar030/cosmic-pomodoro",
+      image: "https://raw.githubusercontent.com/petar030/cosmic-pomodoro/master/img/GruvboxDark.png"
     )
   ]
 )
