@@ -19,6 +19,7 @@
 | [Subscribi](https://codeberg.org/Tony4dev/subscribi) | Track all your subscriptions easily (and privately) | <img src="https://codeberg.org/Tony4dev/subscribi/raw/branch/main/resources/screenshots/overview.png" alt="Subscribi" width="200"/> |
 | [Cupola](https://codeberg.org/bhh32/cupola) | An image viewer built for the COSMIC Desktop. | <img src="https://codeberg.org/bhh32/cupola/raw/branch/main/screenshots/gallery_view.png" alt="Cupola" width="200"/> |
 | [Maré Player](https://github.com/glima/mare-player) | TIDAL music streaming for COSMIC™ — Hi-Res FLAC playback, spectrum visualizer, and MPRIS integration. Also builds as a panel applet. | <img src="https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_standalone.png" alt="Maré Player" width="200"/> |
+| [COSMIC WallShift](https://github.com/nagyrenato/cosmic-wallshift) | Automatically switches your wallpaper when the system theme toggles between Light and Dark mode. | <img src="https://raw.githubusercontent.com/nagyrenato/cosmic-wallshift/master/res/screenshots/image.png" alt="COSMIC WallShift" width="200"/> |
 
 ## Applets
 | Name | Description | Image |
