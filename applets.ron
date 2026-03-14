@@ -151,6 +151,11 @@ Applets(
       description: "Simple Pomodoro applet for COSMIC Desktop",
       repo: "https://github.com/petar030/cosmic-pomodoro",
       image: "https://raw.githubusercontent.com/petar030/cosmic-pomodoro/master/img/GruvboxDark.png"
+    ),
+    (
+      name: "cosmic-ssh-launcher",
+      description: "SSH launcher panel applet — quick access to hosts from ~/.ssh/config",
+      repo: "https://github.com/raph-ael/cosmic-ssh-launcher",
     )
   ]
 )
