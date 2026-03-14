@@ -97,6 +97,12 @@ Applications(
       description: "TIDAL music streaming for COSMIC™ — Hi-Res FLAC playback, spectrum visualizer, and MPRIS integration. Also builds as a panel applet.",
       repo: "https://github.com/glima/mare-player",
       image: "https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_standalone.png"
+    ),
+    (
+      name: "COSMIC WallShift",
+      description: "Automatically switches your wallpaper when the system theme toggles between Light and Dark mode.",
+      repo: "https://github.com/nagyrenato/cosmic-wallshift",
+      image: "https://raw.githubusercontent.com/nagyrenato/cosmic-wallshift/master/res/screenshots/image.png"
     )
   ]
 )
