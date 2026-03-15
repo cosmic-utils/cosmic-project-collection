@@ -198,6 +198,11 @@ Applets(
       description: "Battery power monitor applet for the COSMIC™ desktop",
       repo: "https://github.com/AceMythos/cosmic-power-monitor",
       image: "https://raw.githubusercontent.com/AceMythos/cosmic-power-monitor/main/screenshots/popup.png"
+    ),
+    (
+      name: "cosmic-speech-to-text",
+      description: "Speech-to-text panel applet — record voice and type transcribed text into any app. Supports Mistral, OpenAI, and local whisper.cpp",
+      repo: "https://github.com/raph-ael/cosmic-speech-to-text",
     )
   ]
 )
