@@ -156,6 +156,11 @@ Applets(
       name: "cosmic-ssh-launcher",
       description: "SSH launcher panel applet — quick access to hosts from ~/.ssh/config",
       repo: "https://github.com/raph-ael/cosmic-ssh-launcher",
+    ),
+    (
+      name: "cosmic-speech-to-text",
+      description: "Speech-to-text panel applet — record voice and type transcribed text into any app. Supports Mistral, OpenAI, and local whisper.cpp",
+      repo: "https://github.com/raph-ael/cosmic-speech-to-text",
     )
   ]
 )
