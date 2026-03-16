@@ -156,6 +156,12 @@ Applets(
       name: "cosmic-ssh-launcher",
       description: "SSH launcher panel applet — quick access to hosts from ~/.ssh/config",
       repo: "https://github.com/raph-ael/cosmic-ssh-launcher",
+    ),
+    (
+      name: "cosmic-ext-applet-now-playing",
+      description: "Shows active media in the panel",
+      repo: "https://github.com/cosmic-utils/cosmic-ext-applet-now-playing",
+      image: "https://github.com/cosmic-utils/cosmic-ext-applet-now-playing/blob/main/res/screenshot-2.png"
     )
   ]
 )
