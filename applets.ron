@@ -203,6 +203,12 @@ Applets(
       name: "cosmic-speech-to-text",
       description: "Speech-to-text panel applet — record voice and type transcribed text into any app. Supports Mistral, OpenAI, and local whisper.cpp",
       repo: "https://github.com/raph-ael/cosmic-speech-to-text",
+    ),
+    (
+      name: "cosmic-ext-applet-now-playing",
+      description: "Shows active media in the panel",
+      repo: "https://github.com/cosmic-utils/cosmic-ext-applet-now-playing",
+      image: "https://github.com/cosmic-utils/cosmic-ext-applet-now-playing/blob/main/res/screenshot-2.png"
     )
   ]
 )
