@@ -157,5 +157,10 @@ Applets(
       description: "SSH launcher panel applet — quick access to hosts from ~/.ssh/config",
       repo: "https://github.com/raph-ael/cosmic-ssh-launcher",
     )
+    (
+      name: "cosmic-marketwatch",
+      description: "Real-time stock market ticker for the COSMIC desktop<",
+      repo: "https://github.com/MiracleForge/cosmic-marketwatch",
+    )
   ]
 )
