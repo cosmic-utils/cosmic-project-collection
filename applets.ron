@@ -156,6 +156,12 @@ Applets(
       name: "cosmic-ssh-launcher",
       description: "SSH launcher panel applet — quick access to hosts from ~/.ssh/config",
       repo: "https://github.com/raph-ael/cosmic-ssh-launcher",
+    ),
+    (
+      name: "cosmic-ai-panel",
+      description: "AI assistant panel applet for COSMIC desktop with streaming responses, markdown rendering, and model switching",
+      repo: "https://github.com/levlandon/cosmic-ai-panel",
+      image: "https://raw.githubusercontent.com/levlandon/cosmic-ai-panel/main/screenshots/preview.png"
     )
   ]
 )
