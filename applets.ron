@@ -220,6 +220,12 @@ Applets(
       description: "AI assistant panel applet for COSMIC desktop with streaming responses, markdown rendering, and model switching",
       repo: "https://github.com/levlandon/cosmic-ai-panel",
       image: "https://raw.githubusercontent.com/levlandon/cosmic-ai-panel/main/screenshots/preview.png"
+    ),
+    (
+      name: "cosmic-applet-rotation",
+      description: "Automatic screen rotation for devices with accelerometers",
+      repo: "https://github.com/armaaar/cosmic-applet-rotation",
+      image: "https://raw.githubusercontent.com/armaaar/cosmic-applet-rotation/main/resources/screenshots/applet-enabled.png",
     )
   ]
 )
