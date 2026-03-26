@@ -156,6 +156,12 @@ Applets(
       name: "cosmic-ssh-launcher",
       description: "SSH launcher panel applet — quick access to hosts from ~/.ssh/config",
       repo: "https://github.com/raph-ael/cosmic-ssh-launcher",
-    )
+    ),
+    (
+      name: "cosmic-applet-arch",
+      description: "Applet to display Arch Linux package update status",
+      repo: "https://github.com/nick42d/cosmic-applet-arch",
+      image: "https://github.com/user-attachments/assets/69c49436-226f-4349-afae-94d34694d565"
+    ),
   ]
 )
