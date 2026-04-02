@@ -156,6 +156,12 @@ Applets(
       name: "cosmic-ssh-launcher",
       description: "SSH launcher panel applet — quick access to hosts from ~/.ssh/config",
       repo: "https://github.com/raph-ael/cosmic-ssh-launcher",
+    ),
+    (
+      name: "cosmic-applet-rotation",
+      description: "Automatic screen rotation for devices with accelerometers",
+      repo: "https://github.com/armaaar/cosmic-applet-rotation",
+      image: "https://raw.githubusercontent.com/armaaar/cosmic-applet-rotation/main/resources/screenshots/applet-enabled.png",
     )
   ]
 )
