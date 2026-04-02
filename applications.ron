@@ -87,6 +87,12 @@ Applications(
       image: "https://codeberg.org/Tony4dev/subscribi/raw/branch/main/resources/screenshots/overview.png",
     ),
     (
+      name: "Super STT - With COSMIC Visualizer",
+      description: "Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally.",
+      repo: "https://github.com/jorge-menjivar/super-stt",
+      image: "https://raw.githubusercontent.com/jorge-menjivar/super-stt/refs/heads/main/.github/assets/demo-smaller.gif"
+    ),
+    (
       name: "Cupola",
       description: "An image viewer built for the COSMIC Desktop.",
       repo: "https://codeberg.org/bhh32/cupola",
