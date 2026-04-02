@@ -40,7 +40,7 @@ Applications(
     ),
     (
       name: "oboete",
-      description: "A simple flashcards application for the COSMIC™ desktop.",
+      description: "A flashcards application for the COSMIC™ desktop.",
       repo: "https://github.com/mariinkys/oboete",
       image: "https://raw.githubusercontent.com/mariinkys/oboete/main/resources/screenshots/study-dark.png"
     ),
@@ -103,6 +103,18 @@ Applications(
       description: "TIDAL music streaming for COSMIC™ — Hi-Res FLAC playback, spectrum visualizer, and MPRIS integration. Also builds as a panel applet.",
       repo: "https://github.com/glima/mare-player",
       image: "https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_standalone.png"
+    ),
+    (
+      name: "COSMIC WallShift",
+      description: "Automatically switches your wallpaper when the system theme toggles between Light and Dark mode.",
+      repo: "https://github.com/nagyrenato/cosmic-wallshift",
+      image: "https://raw.githubusercontent.com/nagyrenato/cosmic-wallshift/master/res/screenshots/image.png"
+    ),
+    (
+      name: "cedilla",
+      description: "A markdown text editor for the COSMIC™ desktop.",
+      repo: "https://github.com/mariinkys/cedilla",
+      image: "https://raw.githubusercontent.com/mariinkys/cedilla/refs/heads/main/resources/screenshots/main-dark.png"
     )
   ]
 )
