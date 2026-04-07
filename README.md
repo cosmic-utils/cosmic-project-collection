@@ -21,6 +21,7 @@
 | [Maré Player](https://github.com/glima/mare-player) | TIDAL music streaming for COSMIC™ — Hi-Res FLAC playback, spectrum visualizer, and MPRIS integration. Also builds as a panel applet. | <img src="https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_standalone.png" alt="Maré Player" width="200"/> |
 | [COSMIC WallShift](https://github.com/nagyrenato/cosmic-wallshift) | Automatically switches your wallpaper when the system theme toggles between Light and Dark mode. | <img src="https://raw.githubusercontent.com/nagyrenato/cosmic-wallshift/master/res/screenshots/image.png" alt="COSMIC WallShift" width="200"/> |
 | [cedilla](https://github.com/mariinkys/cedilla) | A markdown text editor for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/mariinkys/cedilla/refs/heads/main/resources/screenshots/main-dark.png" alt="cedilla" width="200"/> |
+| [Super STT - With COSMIC Visualizer](https://github.com/jorge-menjivar/super-stt) | Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally. | <img src="https://raw.githubusercontent.com/jorge-menjivar/super-stt/refs/heads/main/.github/assets/demo-smaller.gif" alt="Super STT - With COSMIC Visualizer" width="200"/> |
 
 ## Applets
 | Name | Description | Image |
