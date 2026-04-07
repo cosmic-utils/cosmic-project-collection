@@ -156,6 +156,12 @@ Applets(
       name: "cosmic-ssh-launcher",
       description: "SSH launcher panel applet — quick access to hosts from ~/.ssh/config",
       repo: "https://github.com/raph-ael/cosmic-ssh-launcher",
+    ),
+    (
+      name: "cosmic-ext-whether",
+      description: "Weather applet with NWS and Open-Meteo forecasts",
+      repo: "https://github.com/nwxnw/cosmic-ext-whether",
+      image: "https://raw.githubusercontent.com/nwxnw/cosmic-ext-whether/master/screenshots/whether.png"
     )
   ]
 )
