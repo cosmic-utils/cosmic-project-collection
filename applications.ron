@@ -109,6 +109,12 @@ Applications(
       description: "A markdown text editor for the COSMIC™ desktop.",
       repo: "https://github.com/mariinkys/cedilla",
       image: "https://raw.githubusercontent.com/mariinkys/cedilla/refs/heads/main/resources/screenshots/main-dark.png"
+    ),
+    (
+      name: "Super STT - With COSMIC Visualizer",
+      description: "Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally.",
+      repo: "https://github.com/jorge-menjivar/super-stt",
+      image: "https://raw.githubusercontent.com/jorge-menjivar/super-stt/refs/heads/main/.github/assets/demo-smaller.gif"
     )
   ]
 )
