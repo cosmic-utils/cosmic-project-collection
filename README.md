@@ -52,6 +52,7 @@
 | [cosmic-applet-mare](https://github.com/glima/mare-player) | TIDAL music streaming applet for COSMIC™ — Hi-Res audio, spectrum visualizer, and MPRIS integration | <img src="https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_applet.png" alt="cosmic-applet-mare" width="200"/> |
 | [cosmic-pomodoro](https://github.com/petar030/cosmic-pomodoro) | Simple Pomodoro applet for COSMIC Desktop | <img src="https://raw.githubusercontent.com/petar030/cosmic-pomodoro/master/img/GruvboxDark.png" alt="cosmic-pomodoro" width="200"/> |
 | [cosmic-ssh-launcher](https://github.com/raph-ael/cosmic-ssh-launcher) | SSH launcher panel applet — quick access to hosts from ~/.ssh/config | |
+| [cosmic-ext-whether](https://github.com/nwxnw/cosmic-ext-whether) | Weather applet with NWS and Open-Meteo forecasts | <img src="https://raw.githubusercontent.com/nwxnw/cosmic-ext-whether/master/screenshots/whether.png" alt="cosmic-ext-whether" width="200"/> |
 
 ## Services
 | Name | Description | Image |
