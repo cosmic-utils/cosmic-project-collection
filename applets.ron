@@ -3,6 +3,12 @@
 Applets(
   list: [
     (
+      name: "clippy-land",
+      description: "COSMIC panel applet for keeping a history of recently copied text and images",
+      repo: "https://github.com/k33wee/clippy-land",
+      image: "https://raw.githubusercontent.com/k33wee/clippy-land/main/resources/example.png"
+    ),
+    (
       name: "cosmic-applet-apps-menu",
       description: "Category based menu for apps.",
       repo: "https://github.com/leb-kuchen/cosmic-applet-apps-menu",
