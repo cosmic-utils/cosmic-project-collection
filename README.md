@@ -9,7 +9,7 @@
 | [fan-control](https://github.com/wiiznokes/fan-control) | Control your fans with different behaviors. | <img src="https://media.githubusercontent.com/media/wiiznokes/fan-control/master/res/screenshots/app.png" alt="fan-control" width="200"/> |
 | [cosmic-webapps](https://github.com/elevenhsoft/WebApps) | Web App Manager for Cosmic desktop written with love and libcosmic. Allow you to simply create web applications from given url working inside separate window of your browser of choice. | <img src="https://raw.githubusercontent.com/cosmic-utils/web-apps/refs/tags/1.0.0/res/screenshots/window-dark.png" alt="cosmic-webapps" width="200"/> |
 | [cosmic-color-picker](https://github.com/PixelDoted/cosmic-color-picker) | A color picker for COSMIC. | <img src="https://raw.githubusercontent.com/PixelDoted/cosmic-ext-color-picker/refs/heads/main/res/screenshots/theme_dark.png" alt="cosmic-color-picker" width="200"/> |
-| [oboete](https://github.com/mariinkys/oboete) | A simple flashcards application for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/mariinkys/oboete/main/resources/screenshots/study-dark.png" alt="oboete" width="200"/> |
+| [oboete](https://github.com/mariinkys/oboete) | A flashcards application for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/mariinkys/oboete/main/resources/screenshots/study-dark.png" alt="oboete" width="200"/> |
 | [starry-dex](https://github.com/mariinkys/starrydex) | Pokédex application for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/mariinkys/starrydex/main/resources/screenshots/pokemon-dark.png" alt="starry-dex" width="200"/> |
 | [cosmic-dirstat](https://github.com/Koranir/cosmic-dirstat) | KDirStat-esque disk usage analyzer using the libcosmic toolkit. | <img src="https://raw.githubusercontent.com/Koranir/cosmic-dirstat/master/img/screenshot.png" alt="cosmic-dirstat" width="200"/> |
 | [forecast](https://github.com/cosmic-utils/forecast) | A simple weather application for the COSMIC™ Desktop | <img src="https://raw.githubusercontent.com/cosmic-utils/forecast/main/screenshots/window.png" alt="forecast" width="200"/> |
@@ -20,10 +20,13 @@
 | [Cupola](https://codeberg.org/bhh32/cupola) | An image viewer built for the COSMIC Desktop. | <img src="https://codeberg.org/bhh32/cupola/raw/branch/main/screenshots/gallery_view.png" alt="Cupola" width="200"/> |
 | [Maré Player](https://github.com/glima/mare-player) | TIDAL music streaming for COSMIC™ — Hi-Res FLAC playback, spectrum visualizer, and MPRIS integration. Also builds as a panel applet. | <img src="https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_standalone.png" alt="Maré Player" width="200"/> |
 | [COSMIC WallShift](https://github.com/nagyrenato/cosmic-wallshift) | Automatically switches your wallpaper when the system theme toggles between Light and Dark mode. | <img src="https://raw.githubusercontent.com/nagyrenato/cosmic-wallshift/master/res/screenshots/image.png" alt="COSMIC WallShift" width="200"/> |
+| [cedilla](https://github.com/mariinkys/cedilla) | A markdown text editor for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/mariinkys/cedilla/refs/heads/main/resources/screenshots/main-dark.png" alt="cedilla" width="200"/> |
+| [Super STT - With COSMIC Visualizer](https://github.com/jorge-menjivar/super-stt) | Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally. | <img src="https://raw.githubusercontent.com/jorge-menjivar/super-stt/refs/heads/main/.github/assets/demo-smaller.gif" alt="Super STT - With COSMIC Visualizer" width="200"/> |
 
 ## Applets
 | Name | Description | Image |
 |---|---|---|
+| [clippy-land](https://github.com/k33wee/clippy-land) | COSMIC panel applet for keeping a history of recently copied text and images | <img src="https://raw.githubusercontent.com/k33wee/clippy-land/main/resources/example.png" alt="clippy-land" width="200"/> |
 | [cosmic-applet-apps-menu](https://github.com/leb-kuchen/cosmic-applet-apps-menu) | Category based menu for apps. | <img src="https://preview.redd.it/here-there-are-cosmics-version-of-gnomes-popular-extension-v0-6q8jqqpeh9pc1.png?width=640&crop=smart&auto=webp&s=0f7f5e22e17ac565bc2a5365592da084f3f411cd" alt="cosmic-applet-apps-menu" width="200"/> |
 | [cosmic-applet-places-status-indicator](https://github.com/leb-kuchen/cosmic-applet-places-status-indicator) | Menu for quickly navigating places in the system | <img src="https://preview.redd.it/here-there-are-cosmics-version-of-gnomes-popular-extension-v0-1vmlqqpeh9pc1.png?width=1920&format=png&auto=webp&s=fdfdffdb3e515a52651ab4e4c7496fc2ef686f7b" alt="cosmic-applet-places-status-indicator" width="200"/> |
 | [cosmic-ext-classic-menu](https://github.com/championpeak87/cosmic-ext-classic-menu) | Menu applet for launching applications | <img src="https://raw.githubusercontent.com/championpeak87/cosmic-ext-classic-menu/master/screenshots/cosmic-ext-classic-menu-applet.png" alt="cosmic-ext-classic-menu" width="200"/> |
@@ -50,6 +53,7 @@
 | [cosmic-applet-mare](https://github.com/glima/mare-player) | TIDAL music streaming applet for COSMIC™ — Hi-Res audio, spectrum visualizer, and MPRIS integration | <img src="https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_applet.png" alt="cosmic-applet-mare" width="200"/> |
 | [cosmic-pomodoro](https://github.com/petar030/cosmic-pomodoro) | Simple Pomodoro applet for COSMIC Desktop | <img src="https://raw.githubusercontent.com/petar030/cosmic-pomodoro/master/img/GruvboxDark.png" alt="cosmic-pomodoro" width="200"/> |
 | [cosmic-ssh-launcher](https://github.com/raph-ael/cosmic-ssh-launcher) | SSH launcher panel applet — quick access to hosts from ~/.ssh/config | |
+| [cosmic-ext-whether](https://github.com/nwxnw/cosmic-ext-whether) | Weather applet with NWS and Open-Meteo forecasts | <img src="https://raw.githubusercontent.com/nwxnw/cosmic-ext-whether/master/screenshots/whether.png" alt="cosmic-ext-whether" width="200"/> |
 
 ## Services
 | Name | Description | Image |

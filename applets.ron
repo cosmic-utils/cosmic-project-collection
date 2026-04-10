@@ -3,6 +3,12 @@
 Applets(
   list: [
     (
+      name: "clippy-land",
+      description: "COSMIC panel applet for keeping a history of recently copied text and images",
+      repo: "https://github.com/k33wee/clippy-land",
+      image: "https://raw.githubusercontent.com/k33wee/clippy-land/main/resources/example.png"
+    ),
+    (
       name: "cosmic-applet-apps-menu",
       description: "Category based menu for apps.",
       repo: "https://github.com/leb-kuchen/cosmic-applet-apps-menu",
@@ -156,6 +162,12 @@ Applets(
       name: "cosmic-ssh-launcher",
       description: "SSH launcher panel applet — quick access to hosts from ~/.ssh/config",
       repo: "https://github.com/raph-ael/cosmic-ssh-launcher",
+    ),
+    (
+      name: "cosmic-ext-whether",
+      description: "Weather applet with NWS and Open-Meteo forecasts",
+      repo: "https://github.com/nwxnw/cosmic-ext-whether",
+      image: "https://raw.githubusercontent.com/nwxnw/cosmic-ext-whether/master/screenshots/whether.png"
     ),
     (
       name: "cosmic-ai-panel",

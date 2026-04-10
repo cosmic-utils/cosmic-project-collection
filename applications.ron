@@ -40,7 +40,7 @@ Applications(
     ),
     (
       name: "oboete",
-      description: "A simple flashcards application for the COSMIC™ desktop.",
+      description: "A flashcards application for the COSMIC™ desktop.",
       repo: "https://github.com/mariinkys/oboete",
       image: "https://raw.githubusercontent.com/mariinkys/oboete/main/resources/screenshots/study-dark.png"
     ),
@@ -103,6 +103,18 @@ Applications(
       description: "Automatically switches your wallpaper when the system theme toggles between Light and Dark mode.",
       repo: "https://github.com/nagyrenato/cosmic-wallshift",
       image: "https://raw.githubusercontent.com/nagyrenato/cosmic-wallshift/master/res/screenshots/image.png"
+    ),
+    (
+      name: "cedilla",
+      description: "A markdown text editor for the COSMIC™ desktop.",
+      repo: "https://github.com/mariinkys/cedilla",
+      image: "https://raw.githubusercontent.com/mariinkys/cedilla/refs/heads/main/resources/screenshots/main-dark.png"
+    ),
+    (
+      name: "Super STT - With COSMIC Visualizer",
+      description: "Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally.",
+      repo: "https://github.com/jorge-menjivar/super-stt",
+      image: "https://raw.githubusercontent.com/jorge-menjivar/super-stt/refs/heads/main/.github/assets/demo-smaller.gif"
     )
   ]
 )
