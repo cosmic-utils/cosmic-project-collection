@@ -168,6 +168,12 @@ Applets(
       description: "Weather applet with NWS and Open-Meteo forecasts",
       repo: "https://github.com/nwxnw/cosmic-ext-whether",
       image: "https://raw.githubusercontent.com/nwxnw/cosmic-ext-whether/master/screenshots/whether.png"
+    ),
+    (
+      name: "cosmic-ai-panel",
+      description: "AI assistant panel applet for COSMIC desktop with streaming responses, markdown rendering, and model switching",
+      repo: "https://github.com/levlandon/cosmic-ai-panel",
+      image: "https://raw.githubusercontent.com/levlandon/cosmic-ai-panel/main/screenshots/preview.png"
     )
   ]
 )
