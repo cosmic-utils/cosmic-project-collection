@@ -168,6 +168,12 @@ Applets(
       description: "Weather applet with NWS and Open-Meteo forecasts",
       repo: "https://github.com/nwxnw/cosmic-ext-whether",
       image: "https://raw.githubusercontent.com/nwxnw/cosmic-ext-whether/master/screenshots/whether.png"
+    ),
+    (
+      name: "cosmic-cpufreq",
+      description: "CPU frequency monitor and governor control applet",
+      repo: "https://github.com/skylord123/cosmic-cpufreq",
+      image: "https://github.com/skylord123/cosmic-cpufreq/raw/master/img.png"
     )
   ]
 )
