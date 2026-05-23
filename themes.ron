@@ -13,6 +13,11 @@ Themes(
       description: "Website for https://cosmic-themes.org",
       repo: "https://github.com/Fingel/cosmic-themes-org-py",
       image: "https://raw.githubusercontent.com/Fingel/cosmic-themes-org-py/refs/heads/main/static/img/logo.webp"
+    ),
+    (
+      name: "candyfactory-cosmic",
+      description: "Dark + light COSMIC themes with matching cosmic-term scheme",
+      repo: "https://github.com/BonfireAI/candyfactory-cosmic"
     )
   ]
 )
