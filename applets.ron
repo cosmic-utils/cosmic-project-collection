@@ -15,6 +15,12 @@ Applets(
       image: "https://preview.redd.it/here-there-are-cosmics-version-of-gnomes-popular-extension-v0-6q8jqqpeh9pc1.png?width=640&crop=smart&auto=webp&s=0f7f5e22e17ac565bc2a5365592da084f3f411cd"
     ),
     (
+      name: "cbar",
+      description: "Scriptable COSMIC panel applet for local plugins, live panel text, popup actions, and catalog-based plugin discovery.",
+      repo: "https://github.com/alexandreprates/cbar",
+      image: "https://raw.githubusercontent.com/alexandreprates/cbar/main/docs/screenshots/cbar-plugin-actions.png"
+    ),
+    (
       name: "cosmic-applet-places-status-indicator",
       description: "Menu for quickly navigating places in the system",
       repo: "https://github.com/leb-kuchen/cosmic-applet-places-status-indicator",
