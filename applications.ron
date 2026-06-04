@@ -115,6 +115,12 @@ Applications(
       description: "Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally.",
       repo: "https://github.com/jorge-menjivar/super-stt",
       image: "https://raw.githubusercontent.com/jorge-menjivar/super-stt/refs/heads/main/.github/assets/demo-smaller.gif"
+    ),
+    (
+      name: "Clippy",
+      description: "A Paste-style clipboard history panel for Linux/Wayland (COSMIC, wlroots). Bottom-screen tiles of recent copies, toggled by a global shortcut.",
+      repo: "https://github.com/davidboulay/Clippy",
+      image: "https://raw.githubusercontent.com/davidboulay/Clippy/main/docs/screenshot.png"
     )
   ]
 )
