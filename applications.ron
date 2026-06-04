@@ -118,7 +118,7 @@ Applications(
     ),
     (
       name: "CosmicShot",
-      description: "CleanShot X-style screenshot capture & annotation tool for Pop!_OS / COSMIC on Wayland — region/window capture, on-the-spot editing (arrows, blur, spotlight, text, crop), pin, and one-click upload.",
+      description: "CleanShot X-style screenshots, screen recording & annotation for Pop!_OS / COSMIC on Wayland — region/window/screen capture, scrolling screenshots, MP4 screen recording (with optional audio), on-the-spot editing (arrows, blur, spotlight, text, crop), pin, and one-click upload.",
       repo: "https://github.com/davidboulay/CosmicShot",
       image: "https://raw.githubusercontent.com/davidboulay/CosmicShot/main/docs/cosmicshot-screenshot.png"
     )
