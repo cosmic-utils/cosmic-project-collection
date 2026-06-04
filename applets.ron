@@ -168,6 +168,12 @@ Applets(
       description: "Weather applet with NWS and Open-Meteo forecasts",
       repo: "https://github.com/nwxnw/cosmic-ext-whether",
       image: "https://raw.githubusercontent.com/nwxnw/cosmic-ext-whether/master/screenshots/whether.png"
+    ),
+    (
+      name: "CosmicUpdate",
+      description: "COSMIC panel applet showing pending app & system updates from the COSMIC Store, with a check-for-updates button",
+      repo: "https://github.com/davidboulay/CosmicUpdate",
+      image: "https://raw.githubusercontent.com/davidboulay/CosmicUpdate/main/screenshots/updates-available.png"
     )
   ]
 )
