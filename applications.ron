@@ -115,6 +115,12 @@ Applications(
       description: "Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally.",
       repo: "https://github.com/jorge-menjivar/super-stt",
       image: "https://raw.githubusercontent.com/jorge-menjivar/super-stt/refs/heads/main/.github/assets/demo-smaller.gif"
+    ),
+    (
+      name: "OpenKraken",
+      description: "Control center for NZXT Kraken AIO liquid coolers on Pop!_OS / COSMIC — temperature/pump/fan dashboard, firmware fan curves, LCD sensor screens / images / GIFs, and ring & fan RGB via a reverse-engineered protocol. Not affiliated with NZXT.",
+      repo: "https://github.com/davidboulay/OpenKraken",
+      image: "https://raw.githubusercontent.com/davidboulay/OpenKraken/main/docs/images/dashboard.png"
     )
   ]
 )
