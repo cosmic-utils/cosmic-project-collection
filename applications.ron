@@ -115,6 +115,12 @@ Applications(
       description: "Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally.",
       repo: "https://github.com/jorge-menjivar/super-stt",
       image: "https://raw.githubusercontent.com/jorge-menjivar/super-stt/refs/heads/main/.github/assets/demo-smaller.gif"
+    ),
+    (
+      name: "CosmicShot",
+      description: "CleanShot X-style screenshots, screen recording & annotation for Pop!_OS / COSMIC on Wayland — region/window/screen capture, scrolling screenshots, MP4 screen recording (with optional audio), on-the-spot editing (arrows, blur, spotlight, text, crop), pin, and one-click upload.",
+      repo: "https://github.com/davidboulay/CosmicShot",
+      image: "https://raw.githubusercontent.com/davidboulay/CosmicShot/main/docs/cosmicshot-screenshot.png"
     )
   ]
 )
