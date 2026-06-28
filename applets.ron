@@ -238,6 +238,12 @@ Applets(
       description: "CPU frequency monitor and governor control applet",
       repo: "https://github.com/skylord123/cosmic-cpufreq",
       image: "https://github.com/skylord123/cosmic-cpufreq/raw/master/img.png"
+    ),
+    (
+      name: "cosmic-applet-claude-usage",
+      description: "Minimal panel applet showing Claude Code usage as a quiet, color-coded indicator",
+      repo: "https://github.com/osterbergsimon/cosmic-applet-claude-usage",
+      image: "https://raw.githubusercontent.com/osterbergsimon/cosmic-applet-claude-usage/master/res/screenshots/popup.png"
     )
   ]
 )
