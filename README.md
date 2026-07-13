@@ -56,6 +56,7 @@
 | [cosmic-ext-whether](https://github.com/nwxnw/cosmic-ext-whether) | Weather applet with NWS and Open-Meteo forecasts | <img src="https://raw.githubusercontent.com/nwxnw/cosmic-ext-whether/master/screenshots/whether.png" alt="cosmic-ext-whether" width="200"/> |
 | [cosmic-ext-applet-mounter](https://github.com/uutzinger/cosmic-ext-applet-mounter) | Manage online mounts and offline mirrors for OneDrive, Google Drive, Box, and SMB | <img src="https://raw.githubusercontent.com/uutzinger/cosmic-ext-applet-mounter/master/resources/Popup.png" alt="cosmic-ext-applet-mounter" width="200"/> |
 | [cosmic-ext-app-switcher](https://github.com/j0rdiun/cosmic-ext-app-switcher) | macOS-style Super+Tab app switcher for COSMIC — horizontal icon strip overlay with Dark, Light, Frosted, and Midnight themes | <img src="https://raw.githubusercontent.com/j0rdiun/cosmic-ext-app-switcher/main/docs/app-switcher.gif" alt="cosmic-ext-app-switcher" width="200"/> |
+| [cosmic-ext-applet-eyedropper](https://github.com/nalladev/cosmic-ext-applet-eyedropper) | Eyedropper applet for cosmic desktop. Pick colours from the screen. | <img src="https://raw.githubusercontent.com/nalladev/cosmic-ext-applet-eyedropper/main/resources/screenshot-2.png" alt="cosmic-ext-applet-eyedropper" width="200"/> |
 
 ## Services
 | Name | Description | Image |
