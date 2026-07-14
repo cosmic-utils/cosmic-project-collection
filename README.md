@@ -65,6 +65,7 @@
 | [cosmic-ai-panel](https://github.com/levlandon/cosmic-ai-panel) | AI assistant panel applet for COSMIC desktop with streaming responses, markdown rendering, and model switching | <img src="https://raw.githubusercontent.com/levlandon/cosmic-ai-panel/main/screenshots/preview.png" alt="cosmic-ai-panel" width="200"/> |
 | [cosmic-applet-rotation](https://github.com/armaaar/cosmic-applet-rotation) | Automatic screen rotation for devices with accelerometers | <img src="https://raw.githubusercontent.com/armaaar/cosmic-applet-rotation/main/resources/screenshots/applet-enabled.png" alt="cosmic-applet-rotation" width="200"/> |
 | [cosmic-applet-arch](https://github.com/nick42d/cosmic-applet-arch) | Applet to display Arch Linux package update status | <img src="https://github.com/user-attachments/assets/69c49436-226f-4349-afae-94d34694d565" alt="cosmic-applet-arch" width="200"/> |
+| [cosmic-cpufreq](https://github.com/skylord123/cosmic-cpufreq) | CPU frequency monitor and governor control applet | <img src="https://github.com/skylord123/cosmic-cpufreq/raw/master/img.png" alt="cosmic-cpufreq" width="200"/> |
 
 ## Services
 | Name | Description | Image |
