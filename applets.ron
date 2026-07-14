@@ -15,6 +15,12 @@ Applets(
       image: "https://preview.redd.it/here-there-are-cosmics-version-of-gnomes-popular-extension-v0-6q8jqqpeh9pc1.png?width=640&crop=smart&auto=webp&s=0f7f5e22e17ac565bc2a5365592da084f3f411cd"
     ),
     (
+      name: "cbar",
+      description: "Scriptable COSMIC panel applet for local plugins, live panel text, popup actions, and catalog-based plugin discovery.",
+      repo: "https://github.com/alexandreprates/cbar",
+      image: "https://raw.githubusercontent.com/alexandreprates/cbar/main/docs/screenshots/cbar-plugin-actions.png"
+    ),
+    (
       name: "cosmic-applet-places-status-indicator",
       description: "Menu for quickly navigating places in the system",
       repo: "https://github.com/leb-kuchen/cosmic-applet-places-status-indicator",
@@ -141,10 +147,10 @@ Applets(
       image: "https://raw.githubusercontent.com/nwxnw/cosmic-connect-applet/main/screenshots/connected-applet.png"
     ),
     (
-      name: "cosmic-flux",
+      name: "cosmic-ext-flux",
       description: "Live wallpaper engine — play video and GIF files as your desktop background with GPU-accelerated decoding, multi-monitor support, and a panel applet for playback controls.",
-      repo: "https://github.com/franz-net/cosmic-flux",
-      image: "https://raw.githubusercontent.com/franz-net/cosmic-flux/main/assets/screenshot.png"
+      repo: "https://github.com/franz-net/cosmic-ext-flux",
+      image: "https://raw.githubusercontent.com/franz-net/cosmic-ext-flux/main/assets/screenshot.png"
     ),
     (
       name: "cosmic-applet-mare",
@@ -168,6 +174,46 @@ Applets(
       description: "Weather applet with NWS and Open-Meteo forecasts",
       repo: "https://github.com/nwxnw/cosmic-ext-whether",
       image: "https://raw.githubusercontent.com/nwxnw/cosmic-ext-whether/master/screenshots/whether.png"
+    ),
+    (
+      name: "cosmic-ext-applet-mounter",
+      description: "Manage online mounts and offline mirrors for OneDrive, Google Drive, Box, and SMB",
+      repo: "https://github.com/uutzinger/cosmic-ext-applet-mounter",
+      image: "https://raw.githubusercontent.com/uutzinger/cosmic-ext-applet-mounter/master/resources/Popup.png"
+    ),
+    (
+      name: "cosmic-ext-app-switcher",
+      description: "macOS-style Super+Tab app switcher for COSMIC — horizontal icon strip overlay with Dark, Light, Frosted, and Midnight themes",
+      repo: "https://github.com/j0rdiun/cosmic-ext-app-switcher",
+      image: "https://raw.githubusercontent.com/j0rdiun/cosmic-ext-app-switcher/main/docs/app-switcher.gif"
+    ),
+    (
+      name: "cosmic-ext-applet-eyedropper",
+      description: "Eyedropper applet for cosmic desktop. Pick colours from the screen.",
+      repo: "https://github.com/nalladev/cosmic-ext-applet-eyedropper",
+      image: "https://raw.githubusercontent.com/nalladev/cosmic-ext-applet-eyedropper/main/resources/screenshot-2.png"
+    ),
+    (
+      name: "cosmic-power-monitor",
+      description: "Battery power monitor applet for the COSMIC™ desktop",
+      repo: "https://github.com/AceMythos/cosmic-power-monitor",
+      image: "https://raw.githubusercontent.com/AceMythos/cosmic-power-monitor/main/screenshots/popup.png"
+    ),
+    (
+      name: "cosmic-speech-to-text",
+      description: "Speech-to-text panel applet — record voice and type transcribed text into any app. Supports Mistral, OpenAI, and local whisper.cpp",
+      repo: "https://github.com/raph-ael/cosmic-speech-to-text",
+    ),
+    (
+      name: "cosmic-ext-applet-now-playing",
+      description: "Shows active media in the panel",
+      repo: "https://github.com/cosmic-utils/cosmic-ext-applet-now-playing",
+      image: "https://github.com/cosmic-utils/cosmic-ext-applet-now-playing/blob/main/res/screenshot-2.png"
+    ),
+    (
+      name: "cosmic-keepass",
+      description: "KeePass password manager panel applet — search, copy, and manage passwords from .kdbx databases",
+      repo: "https://github.com/raph-ael/cosmic-keepass",
     ),
     (
       name: "cosmic-ai-panel",
