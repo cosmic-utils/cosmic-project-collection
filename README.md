@@ -59,6 +59,7 @@
 | [cosmic-ext-app-switcher](https://github.com/j0rdiun/cosmic-ext-app-switcher) | macOS-style Super+Tab app switcher for COSMIC — horizontal icon strip overlay with Dark, Light, Frosted, and Midnight themes | <img src="https://raw.githubusercontent.com/j0rdiun/cosmic-ext-app-switcher/main/docs/app-switcher.gif" alt="cosmic-ext-app-switcher" width="200"/> |
 | [cosmic-ext-applet-eyedropper](https://github.com/nalladev/cosmic-ext-applet-eyedropper) | Eyedropper applet for cosmic desktop. Pick colours from the screen. | <img src="https://raw.githubusercontent.com/nalladev/cosmic-ext-applet-eyedropper/main/resources/screenshot-2.png" alt="cosmic-ext-applet-eyedropper" width="200"/> |
 | [cosmic-power-monitor](https://github.com/AceMythos/cosmic-power-monitor) | Battery power monitor applet for the COSMIC™ desktop | <img src="https://raw.githubusercontent.com/AceMythos/cosmic-power-monitor/main/screenshots/popup.png" alt="cosmic-power-monitor" width="200"/> |
+| [cosmic-speech-to-text](https://github.com/raph-ael/cosmic-speech-to-text) | Speech-to-text panel applet — record voice and type transcribed text into any app. Supports Mistral, OpenAI, and local whisper.cpp | |
 
 ## Services
 | Name | Description | Image |
