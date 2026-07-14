@@ -77,6 +77,7 @@
 |---|---|---|
 | [catppuccin](https://github.com/catppuccin/cosmic-desktop) | Soothing pastel theme for COSMIC Desktop Environment | <img src="https://raw.githubusercontent.com/catppuccin/cosmic-desktop/main/assets/preview.webp" alt="catppuccin" width="200"/> |
 | [cosmic-themes](https://github.com/Fingel/cosmic-themes-org-py) | Website for https://cosmic-themes.org | <img src="https://raw.githubusercontent.com/Fingel/cosmic-themes-org-py/refs/heads/main/static/img/logo.webp" alt="cosmic-themes" width="200"/> |
+| [candyfactory-cosmic](https://github.com/BonfireAI/candyfactory-cosmic) | Dark + light COSMIC themes with matching cosmic-term scheme | |
 
 ## Scripts
 | Name | Description | Image |
