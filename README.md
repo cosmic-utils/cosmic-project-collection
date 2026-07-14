@@ -60,6 +60,7 @@
 | [cosmic-ext-applet-eyedropper](https://github.com/nalladev/cosmic-ext-applet-eyedropper) | Eyedropper applet for cosmic desktop. Pick colours from the screen. | <img src="https://raw.githubusercontent.com/nalladev/cosmic-ext-applet-eyedropper/main/resources/screenshot-2.png" alt="cosmic-ext-applet-eyedropper" width="200"/> |
 | [cosmic-power-monitor](https://github.com/AceMythos/cosmic-power-monitor) | Battery power monitor applet for the COSMIC™ desktop | <img src="https://raw.githubusercontent.com/AceMythos/cosmic-power-monitor/main/screenshots/popup.png" alt="cosmic-power-monitor" width="200"/> |
 | [cosmic-speech-to-text](https://github.com/raph-ael/cosmic-speech-to-text) | Speech-to-text panel applet — record voice and type transcribed text into any app. Supports Mistral, OpenAI, and local whisper.cpp | |
+| [cosmic-ext-applet-now-playing](https://github.com/cosmic-utils/cosmic-ext-applet-now-playing) | Shows active media in the panel | <img src="https://github.com/cosmic-utils/cosmic-ext-applet-now-playing/blob/main/res/screenshot-2.png" alt="cosmic-ext-applet-now-playing" width="200"/> |
 
 ## Services
 | Name | Description | Image |
