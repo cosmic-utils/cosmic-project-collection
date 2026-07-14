@@ -186,6 +186,12 @@ Applets(
       description: "Eyedropper applet for cosmic desktop. Pick colours from the screen.",
       repo: "https://github.com/nalladev/cosmic-ext-applet-eyedropper",
       image: "https://raw.githubusercontent.com/nalladev/cosmic-ext-applet-eyedropper/main/resources/screenshot-2.png"
+    ),
+    (
+      name: "cosmic-power-monitor",
+      description: "Battery power monitor applet for the COSMIC™ desktop",
+      repo: "https://github.com/AceMythos/cosmic-power-monitor",
+      image: "https://raw.githubusercontent.com/AceMythos/cosmic-power-monitor/main/screenshots/popup.png"
     )
   ]
 )
