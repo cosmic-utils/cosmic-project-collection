@@ -63,6 +63,7 @@
 | [cosmic-ext-applet-now-playing](https://github.com/cosmic-utils/cosmic-ext-applet-now-playing) | Shows active media in the panel | <img src="https://github.com/cosmic-utils/cosmic-ext-applet-now-playing/blob/main/res/screenshot-2.png" alt="cosmic-ext-applet-now-playing" width="200"/> |
 | [cosmic-keepass](https://github.com/raph-ael/cosmic-keepass) | KeePass password manager panel applet — search, copy, and manage passwords from .kdbx databases | |
 | [cosmic-ai-panel](https://github.com/levlandon/cosmic-ai-panel) | AI assistant panel applet for COSMIC desktop with streaming responses, markdown rendering, and model switching | <img src="https://raw.githubusercontent.com/levlandon/cosmic-ai-panel/main/screenshots/preview.png" alt="cosmic-ai-panel" width="200"/> |
+| [cosmic-applet-rotation](https://github.com/armaaar/cosmic-applet-rotation) | Automatic screen rotation for devices with accelerometers | <img src="https://raw.githubusercontent.com/armaaar/cosmic-applet-rotation/main/resources/screenshots/applet-enabled.png" alt="cosmic-applet-rotation" width="200"/> |
 
 ## Services
 | Name | Description | Image |
