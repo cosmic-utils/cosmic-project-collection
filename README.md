@@ -6,22 +6,41 @@
 | [Tasks](https://github.com/edfloreshz/tasks) | A simple task management application for the COSMIC desktop. | <img src="https://raw.githubusercontent.com/edfloreshz/tasks/main/res/screenshots/window-light.png" alt="Tasks" width="200"/> |
 | [Tweaks for COSMIC™](https://github.com/cosmic-utils/tweaks) |  A tweaking tool for the COSMIC desktop. | <img src="https://raw.githubusercontent.com/cosmic-utils/tweaks/refs/heads/main/res/screenshots/color-schemes-light.png" alt="Tweaks for COSMIC™" width="200"/> |
 | [Calculator](https://github.com/edfloreshz/cosmic-ext-calculator) | A calculator application for the COSMIC desktop. | <img src="https://raw.githubusercontent.com/edfloreshz/cosmic-ext-calculator/main/res/screenshots/window-light.png" alt="Calculator" width="200"/> |
-| [fan-control](https://github.com/wiiznokes/fan-control) | Control your fans with different behaviors. | <img src="https://media.githubusercontent.com/media/wiiznokes/fan-control/master/res/screenshots/app.png" alt="fan-control" width="200"/> |
-| [cosmic-webapps](https://github.com/elevenhsoft/WebApps) | Web App Manager for Cosmic desktop written with love and libcosmic. Allow you to simply create web applications from given url working inside separate window of your browser of choice. | <img src="https://raw.githubusercontent.com/cosmic-utils/web-apps/refs/tags/1.0.0/res/screenshots/window-dark.png" alt="cosmic-webapps" width="200"/> |
+| [Boards](https://github.com/cosmic-utils/boards) | Boards is a Trello like application for COSMIC | <img src="https://raw.githubusercontent.com/cosmic-utils/boards/main/resources/screenshots/window-light.png" alt="Boards" width="200"/> |
+| [Fan Control](https://github.com/wiiznokes/fan-control) | Control your fans with different behaviors. | <img src="https://media.githubusercontent.com/media/wiiznokes/fan-control/master/res/screenshots/app.png" alt="Fan Control" width="200"/> |
+| [Ethereal Waves](https://github.com/cosmic-utils/ethereal-waves) | libcosmic, gstreamer based music player | <img src="https://raw.githubusercontent.com/cosmic-utils/ethereal-waves/e376ce81ddfe7b3fb4357b9e882d33586102b13b/screenshots/Ethereal%20Waves%20-%20Dark%20Mode.png" alt="Ethereal Waves" width="200"/> |
+| [cosmic-webapps](https://github.com/cosmic-utils/web-apps) | Web App Manager for Cosmic desktop written with love and libcosmic. Allow you to simply create web applications from given url working inside separate window of your browser of choice. | <img src="https://raw.githubusercontent.com/cosmic-utils/web-apps/refs/tags/1.0.0/res/screenshots/window-dark.png" alt="cosmic-webapps" width="200"/> |
+| [AppHub](https://github.com/cosmic-utils/app-hub) | AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages | <img src="https://raw.githubusercontent.com/cosmic-utils/app-hub/master/screenshots/install.png" alt="AppHub" width="200"/> |
 | [cosmic-color-picker](https://github.com/PixelDoted/cosmic-color-picker) | A color picker for COSMIC. | <img src="https://raw.githubusercontent.com/PixelDoted/cosmic-ext-color-picker/refs/heads/main/res/screenshots/theme_dark.png" alt="cosmic-color-picker" width="200"/> |
-| [oboete](https://github.com/mariinkys/oboete) | A flashcards application for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/mariinkys/oboete/main/resources/screenshots/study-dark.png" alt="oboete" width="200"/> |
-| [starry-dex](https://github.com/mariinkys/starrydex) | Pokédex application for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/mariinkys/starrydex/main/resources/screenshots/pokemon-dark.png" alt="starry-dex" width="200"/> |
+| [Noctua](https://github.com/cosmic-utils/noctua) | An image viewer application for the COSMIC™ desktop | <img src="https://raw.githubusercontent.com/cosmic-utils/noctua/main/docs/images/screenshot.png" alt="Noctua" width="200"/> |
+| [Cupola](https://github.com/cosmic-utils/cupola) | An image viewer built for COSMIC with libcosmic. | <img src="https://raw.githubusercontent.com/cosmic-utils/cupola/main/screenshots/responsive_gallery_3.png" alt="Cupola" width="200"/> |
+| [Oboete](https://github.com/mariinkys/oboete) | A flashcards application for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/mariinkys/oboete/main/resources/screenshots/study-dark.png" alt="Oboete" width="200"/> |
+| [StarryDex](https://github.com/mariinkys/starrydex) | Pokédex application for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/mariinkys/starrydex/main/resources/screenshots/pokemon-dark.png" alt="StarryDex" width="200"/> |
+| [Cedilla](https://github.com/mariinkys/cedilla) | A markdown text editor for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/mariinkys/cedilla/refs/heads/main/resources/screenshots/main-dark.png" alt="Cedilla" width="200"/> |
+| [Stellarshot](https://github.com/cosmic-utils/stellarshot) | A simple backup application using Restic/Rustic for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/cosmic-utils/stellarshot/main/res/screenshots/Stellarshot-Light.png" alt="Stellarshot" width="200"/> |
 | [cosmic-dirstat](https://github.com/Koranir/cosmic-dirstat) | KDirStat-esque disk usage analyzer using the libcosmic toolkit. | <img src="https://raw.githubusercontent.com/Koranir/cosmic-dirstat/master/img/screenshot.png" alt="cosmic-dirstat" width="200"/> |
+| [Camera](https://github.com/cosmic-utils/camera) | Camera application for the COSMIC™ desktop environment | <img src="https://raw.githubusercontent.com/cosmic-utils/camera/main/preview/preview-001.png" alt="Camera" width="200"/> |
 | [forecast](https://github.com/cosmic-utils/forecast) | A simple weather application for the COSMIC™ Desktop | <img src="https://raw.githubusercontent.com/cosmic-utils/forecast/main/screenshots/window.png" alt="forecast" width="200"/> |
+| [examine](https://github.com/cosmic-utils/examine) | A system information viewer for the COSMIC™ Desktop | <img src="https://raw.githubusercontent.com/cosmic-utils/examine/main/res/screenshots/distribution.png" alt="examine" width="200"/> |
 | [cosmic-ext-2048](https://github.com/Kartonrealista/cosmic-ext-2048) | A 2048 game written in libcosmic and Rust | <img src="https://raw.githubusercontent.com/Kartonrealista/cosmic-ext-2048/main/screenshots/s1.png" alt="cosmic-ext-2048" width="200"/> |
 | [cosmicding](https://github.com/vkhitrin/cosmicding) | linkding companion app for COSMIC™ | <img src="https://raw.githubusercontent.com/vkhitrin/cosmicding/main/res/screenshots/bookmarks.png" alt="cosmicding" width="200"/> |
+| [Chronos](https://github.com/cosmic-utils/chronos) | Chronos is a simple and intuitive Pomodoro timer for Linux | <img src="https://raw.githubusercontent.com/cosmic-utils/chronos/main/screenshots/pomodoro-page.png" alt="Chronos" width="200"/> |
+| [Accounts](https://github.com/cosmic-utils/accounts) | A library for COSMIC online account management. | <img src="https://raw.githubusercontent.com/cosmic-utils/accounts/refs/heads/main/accounts-ui/resources/screenshots/welcome-light.png" alt="Accounts" width="200"/> |
+| [configurator](https://github.com/cosmic-utils/configurator) | dconf alternative | <img src="https://media.githubusercontent.com/media/cosmic-utils/configurator/master/res/screenshots/cosmic-panel-compat.png" alt="configurator" width="200"/> |
 | [bodev](https://codeberg.org/sgued/bodev) | Low level dev tools | <img src="https://bodev.sgued.fr/screenshot-ascii-light.png" alt="bodev" width="200"/> |
 | [Subscribi](https://codeberg.org/Tony4dev/subscribi) | Track all your subscriptions easily (and privately) | <img src="https://codeberg.org/Tony4dev/subscribi/raw/branch/main/resources/screenshots/overview.png" alt="Subscribi" width="200"/> |
 | [Cupola](https://codeberg.org/bhh32/cupola) | An image viewer built for the COSMIC Desktop. | <img src="https://codeberg.org/bhh32/cupola/raw/branch/main/screenshots/gallery_view.png" alt="Cupola" width="200"/> |
 | [Maré Player](https://github.com/glima/mare-player) | TIDAL music streaming for COSMIC™ — Hi-Res FLAC playback, spectrum visualizer, and MPRIS integration. Also builds as a panel applet. | <img src="https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_standalone.png" alt="Maré Player" width="200"/> |
 | [COSMIC WallShift](https://github.com/nagyrenato/cosmic-wallshift) | Automatically switches your wallpaper when the system theme toggles between Light and Dark mode. | <img src="https://raw.githubusercontent.com/nagyrenato/cosmic-wallshift/master/res/screenshots/image.png" alt="COSMIC WallShift" width="200"/> |
-| [cedilla](https://github.com/mariinkys/cedilla) | A markdown text editor for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/mariinkys/cedilla/refs/heads/main/resources/screenshots/main-dark.png" alt="cedilla" width="200"/> |
 | [Super STT - With COSMIC Visualizer](https://github.com/jorge-menjivar/super-stt) | Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally. | <img src="https://raw.githubusercontent.com/jorge-menjivar/super-stt/refs/heads/main/.github/assets/demo-smaller.gif" alt="Super STT - With COSMIC Visualizer" width="200"/> |
+| [Toot](https://github.com/cosmic-utils/toot) | Mastodon client for COSMIC | |
+| [Calendar](https://github.com/cosmic-utils/calendar) | A calendar application for the COSMIC desktop | |
+| [GitWork](https://github.com/cosmic-utils/git-work) | A GitHub notifications applet for the COSMIC desktop | |
+| [observatory](https://github.com/cosmic-utils/observatory) | An in-development system monitor application for the COSMIC desktop environment | |
+| [andromeda](https://github.com/cosmic-utils/andromeda) | Disk management utility for the COSMIC™ desktop environment | |
+| [cosmic-ext-storage](https://github.com/cosmic-utils/cosmic-ext-storage) | A Disk Utility for the Comsic Desktop | |
+| [enroll](https://github.com/cosmic-utils/enroll) | Fingerprint management | |
+| [Wizard](https://github.com/cosmic-utils/wizard) | Deb packages installer made with magic for the COSMIC™ desktop! | |
 
 ## Applets
 | Name | Description | Image |
@@ -67,6 +86,14 @@
 | [cosmic-applet-arch](https://github.com/nick42d/cosmic-applet-arch) | Applet to display Arch Linux package update status | <img src="https://github.com/user-attachments/assets/69c49436-226f-4349-afae-94d34694d565" alt="cosmic-applet-arch" width="200"/> |
 | [cosmic-cpufreq](https://github.com/skylord123/cosmic-cpufreq) | CPU frequency monitor and governor control applet | <img src="https://github.com/skylord123/cosmic-cpufreq/raw/master/img.png" alt="cosmic-cpufreq" width="200"/> |
 | [cosmic-applet-claude-usage](https://github.com/osterbergsimon/cosmic-applet-claude-usage) | Minimal panel applet showing Claude Code usage as a quiet, color-coded indicator | <img src="https://raw.githubusercontent.com/osterbergsimon/cosmic-applet-claude-usage/master/res/screenshots/popup.png" alt="cosmic-applet-claude-usage" width="200"/> |
+| [gui-scale-applet](https://github.com/cosmic-utils/gui-scale-applet) | COSMIC applet for Tailscale | <img src="https://raw.githubusercontent.com/cosmic-utils/gui-scale-applet/main/screenshots/connections_tab.png" alt="gui-scale-applet" width="200"/> |
+| [cosmic-ext-applet-sysinfo](https://github.com/cosmic-utils/cosmic-ext-applet-sysinfo) | Simple system info applet for cosmic. | <img src="https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-sysinfo/main/data/applet_screenshot_2.png" alt="cosmic-ext-applet-sysinfo" width="200"/> |
+| [cosmic-ext-applet-weather](https://github.com/cosmic-utils/cosmic-ext-applet-weather) | Simple weather info applet for cosmic. | <img src="https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-weather/refs/heads/main/data/applet_screenshot_3.png" alt="cosmic-ext-applet-weather" width="200"/> |
+| [cosmic-ext-applet-pomodoro](https://github.com/cosmic-utils/cosmic-ext-applet-pomodoro) | A pomodoro timer applet for the COSMIC desktop | <img src="https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-pomodoro/main/screenshot.png" alt="cosmic-ext-applet-pomodoro" width="200"/> |
+| [cosmic-ext-applet-vigil](https://github.com/cosmic-utils/cosmic-ext-applet-vigil) | Screen-awake applet for the COSMIC™ desktop — prevent your screen from sleeping with preset durations or indefinite mode | <img src="https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-vigil/main/screenshot.png" alt="cosmic-ext-applet-vigil" width="200"/> |
+| [cosmic-ext-applet-nixos-update](https://github.com/cosmic-utils/cosmic-ext-applet-nixos-update) |  | |
+| [cosmic-ext-applet-drives](https://github.com/cosmic-utils/cosmic-ext-applet-drives) |  | |
+| [kdeconnect](https://github.com/cosmic-utils/kdeconnect) |  | |
 
 ## Services
 | Name | Description | Image |
@@ -79,6 +106,8 @@
 | [catppuccin](https://github.com/catppuccin/cosmic-desktop) | Soothing pastel theme for COSMIC Desktop Environment | <img src="https://raw.githubusercontent.com/catppuccin/cosmic-desktop/main/assets/preview.webp" alt="catppuccin" width="200"/> |
 | [cosmic-themes](https://github.com/Fingel/cosmic-themes-org-py) | Website for https://cosmic-themes.org | <img src="https://raw.githubusercontent.com/Fingel/cosmic-themes-org-py/refs/heads/main/static/img/logo.webp" alt="cosmic-themes" width="200"/> |
 | [candyfactory-cosmic](https://github.com/BonfireAI/candyfactory-cosmic) | Dark + light COSMIC themes with matching cosmic-term scheme | |
+| [cosmic-ext-brand-wallpapers](https://github.com/cosmic-utils/cosmic-ext-brand-wallpapers) | COSMIC™ Brand Wallpapers | <img src="https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-brand-wallpapers/main/3840x2160/COSMIC-Dark.png" alt="cosmic-ext-brand-wallpapers" width="200"/> |
+| [cosmic-ext-themes](https://github.com/cosmic-utils/cosmic-ext-themes) | My themes for COSMIC. | |
 
 ## Scripts
 | Name | Description | Image |
