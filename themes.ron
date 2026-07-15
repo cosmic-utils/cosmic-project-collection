@@ -18,6 +18,18 @@ Themes(
       name: "candyfactory-cosmic",
       description: "Dark + light COSMIC themes with matching cosmic-term scheme",
       repo: "https://github.com/BonfireAI/candyfactory-cosmic"
-    )
+    ),
+    (
+        name: "cosmic-ext-brand-wallpapers",
+        description: "COSMIC™ Brand Wallpapers",
+        repo: "https://github.com/cosmic-utils/cosmic-ext-brand-wallpapers",
+        image: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-brand-wallpapers/main/3840x2160/COSMIC-Dark.png",
+    ),
+    (
+        name: "cosmic-ext-themes",
+        description: "My themes for COSMIC.",
+        repo: "https://github.com/cosmic-utils/cosmic-ext-themes",
+        image: None,
+    ),
   ]
 )

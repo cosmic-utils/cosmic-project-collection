@@ -244,6 +244,54 @@ Applets(
       description: "Minimal panel applet showing Claude Code usage as a quiet, color-coded indicator",
       repo: "https://github.com/osterbergsimon/cosmic-applet-claude-usage",
       image: "https://raw.githubusercontent.com/osterbergsimon/cosmic-applet-claude-usage/master/res/screenshots/popup.png"
-    )
+    ),
+    (
+        name: "gui-scale-applet",
+        description: "COSMIC applet for Tailscale",
+        repo: "https://github.com/cosmic-utils/gui-scale-applet",
+        image: "https://raw.githubusercontent.com/cosmic-utils/gui-scale-applet/main/screenshots/connections_tab.png",
+    ),
+    (
+        name: "cosmic-ext-applet-sysinfo",
+        description: "Simple system info applet for cosmic.",
+        repo: "https://github.com/cosmic-utils/cosmic-ext-applet-sysinfo",
+        image: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-sysinfo/main/data/applet_screenshot_2.png",
+    ),
+    (
+        name: "cosmic-ext-applet-weather",
+        description: "Simple weather info applet for cosmic.",
+        repo: "https://github.com/cosmic-utils/cosmic-ext-applet-weather",
+        image: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-weather/refs/heads/main/data/applet_screenshot_3.png",
+    ),
+    (
+        name: "cosmic-ext-applet-pomodoro",
+        description: "A pomodoro timer applet for the COSMIC desktop",
+        repo: "https://github.com/cosmic-utils/cosmic-ext-applet-pomodoro",
+        image: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-pomodoro/main/screenshot.png",
+    ),
+    (
+        name: "cosmic-ext-applet-vigil",
+        description: "Screen-awake applet for the COSMIC™ desktop — prevent your screen from sleeping with preset durations or indefinite mode",
+        repo: "https://github.com/cosmic-utils/cosmic-ext-applet-vigil",
+        image: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-vigil/main/screenshot.png",
+    ),
+    (
+        name: "cosmic-ext-applet-nixos-update",
+        description: "",
+        repo: "https://github.com/cosmic-utils/cosmic-ext-applet-nixos-update",
+        image: None,
+    ),
+    (
+        name: "cosmic-ext-applet-drives",
+        description: "",
+        repo: "https://github.com/cosmic-utils/cosmic-ext-applet-drives",
+        image: None,
+    ),
+    (
+        name: "kdeconnect",
+        description: "",
+        repo: "https://github.com/cosmic-utils/kdeconnect",
+        image: None,
+    ),
   ]
 )

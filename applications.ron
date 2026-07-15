@@ -21,16 +21,34 @@ Applications(
       image: "https://raw.githubusercontent.com/edfloreshz/cosmic-ext-calculator/main/res/screenshots/window-light.png"
     ),
     (
-      name: "fan-control",
+        name: "Boards",
+        description: "Boards is a Trello like application for COSMIC",
+        repo: "https://github.com/cosmic-utils/boards",
+        image: "https://raw.githubusercontent.com/cosmic-utils/boards/main/resources/screenshots/window-light.png",
+    ),
+    (
+      name: "Fan Control",
       description: "Control your fans with different behaviors.",
       repo: "https://github.com/wiiznokes/fan-control",
       image: "https://media.githubusercontent.com/media/wiiznokes/fan-control/master/res/screenshots/app.png"
     ),
     (
+        name: "Ethereal Waves",
+        description: "libcosmic, gstreamer based music player",
+        repo: "https://github.com/cosmic-utils/ethereal-waves",
+        image: "https://raw.githubusercontent.com/cosmic-utils/ethereal-waves/e376ce81ddfe7b3fb4357b9e882d33586102b13b/screenshots/Ethereal%20Waves%20-%20Dark%20Mode.png",
+    ),
+    (
       name: "cosmic-webapps",
       description: "Web App Manager for Cosmic desktop written with love and libcosmic. Allow you to simply create web applications from given url working inside separate window of your browser of choice.",
-      repo: "https://github.com/elevenhsoft/WebApps",
+      repo: "https://github.com/cosmic-utils/web-apps",
       image: "https://raw.githubusercontent.com/cosmic-utils/web-apps/refs/tags/1.0.0/res/screenshots/window-dark.png"
+    ),
+    (
+        name: "AppHub",
+        description: "AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages",
+        repo: "https://github.com/cosmic-utils/app-hub",
+        image: "https://raw.githubusercontent.com/cosmic-utils/app-hub/master/screenshots/install.png",
     ),
     (
       name: "cosmic-color-picker",
@@ -39,16 +57,40 @@ Applications(
       image: "https://raw.githubusercontent.com/PixelDoted/cosmic-ext-color-picker/refs/heads/main/res/screenshots/theme_dark.png"
     ),
     (
-      name: "oboete",
+        name: "Noctua",
+        description: "An image viewer application for the COSMIC™ desktop",
+        repo: "https://github.com/cosmic-utils/noctua",
+        image: "https://raw.githubusercontent.com/cosmic-utils/noctua/main/docs/images/screenshot.png",
+    ),
+    (
+        name: "Cupola",
+        description: "An image viewer built for COSMIC with libcosmic.",
+        repo: "https://github.com/cosmic-utils/cupola",
+        image: "https://raw.githubusercontent.com/cosmic-utils/cupola/main/screenshots/responsive_gallery_3.png",
+    ),
+    (
+      name: "Oboete",
       description: "A flashcards application for the COSMIC™ desktop.",
       repo: "https://github.com/mariinkys/oboete",
       image: "https://raw.githubusercontent.com/mariinkys/oboete/main/resources/screenshots/study-dark.png"
     ),
     (
-      name: "starry-dex",
+      name: "StarryDex",
       description: "Pokédex application for the COSMIC™ desktop.",
       repo: "https://github.com/mariinkys/starrydex",
       image: "https://raw.githubusercontent.com/mariinkys/starrydex/main/resources/screenshots/pokemon-dark.png"
+    ),
+    (
+      name: "Cedilla",
+      description: "A markdown text editor for the COSMIC™ desktop.",
+      repo: "https://github.com/mariinkys/cedilla",
+      image: "https://raw.githubusercontent.com/mariinkys/cedilla/refs/heads/main/resources/screenshots/main-dark.png"
+    ),
+    (
+        name: "Stellarshot",
+        description: "A simple backup application using Restic/Rustic for the COSMIC™ desktop.",
+        repo: "https://github.com/cosmic-utils/stellarshot",
+        image: "https://raw.githubusercontent.com/cosmic-utils/stellarshot/main/res/screenshots/Stellarshot-Light.png",
     ),
     (
       name: "cosmic-dirstat",
@@ -57,10 +99,22 @@ Applications(
       image: "https://raw.githubusercontent.com/Koranir/cosmic-dirstat/master/img/screenshot.png"
     ),
     (
+        name: "Camera",
+        description: "Camera application for the COSMIC™ desktop environment",
+        repo: "https://github.com/cosmic-utils/camera",
+        image: "https://raw.githubusercontent.com/cosmic-utils/camera/main/preview/preview-001.png",
+    ),
+    (
       name: "forecast",
       description: "A simple weather application for the COSMIC™ Desktop",
       repo: "https://github.com/cosmic-utils/forecast",
       image: "https://raw.githubusercontent.com/cosmic-utils/forecast/main/screenshots/window.png"
+    ),
+    (
+        name: "examine",
+        description: "A system information viewer for the COSMIC™ Desktop",
+        repo: "https://github.com/cosmic-utils/examine",
+        image: "https://raw.githubusercontent.com/cosmic-utils/examine/main/res/screenshots/distribution.png",
     ),
     (
       name: "cosmic-ext-2048",
@@ -73,6 +127,24 @@ Applications(
       description: "linkding companion app for COSMIC™",
       repo: "https://github.com/vkhitrin/cosmicding",
       image: "https://raw.githubusercontent.com/vkhitrin/cosmicding/main/res/screenshots/bookmarks.png"
+    ),
+    (
+        name: "Chronos",
+        description: "Chronos is a simple and intuitive Pomodoro timer for Linux",
+        repo: "https://github.com/cosmic-utils/chronos",
+        image: "https://raw.githubusercontent.com/cosmic-utils/chronos/main/screenshots/pomodoro-page.png",
+    ),
+    (
+        name: "Accounts",
+        description: "A library for COSMIC online account management.",
+        repo: "https://github.com/cosmic-utils/accounts",
+        image: "https://raw.githubusercontent.com/cosmic-utils/accounts/refs/heads/main/accounts-ui/resources/screenshots/welcome-light.png",
+    ),
+    (
+        name: "configurator",
+        description: "dconf alternative",
+        repo: "https://github.com/cosmic-utils/configurator",
+        image: "https://media.githubusercontent.com/media/cosmic-utils/configurator/master/res/screenshots/cosmic-panel-compat.png",
     ),
     (
       name: "bodev",
@@ -105,16 +177,58 @@ Applications(
       image: "https://raw.githubusercontent.com/nagyrenato/cosmic-wallshift/master/res/screenshots/image.png"
     ),
     (
-      name: "cedilla",
-      description: "A markdown text editor for the COSMIC™ desktop.",
-      repo: "https://github.com/mariinkys/cedilla",
-      image: "https://raw.githubusercontent.com/mariinkys/cedilla/refs/heads/main/resources/screenshots/main-dark.png"
-    ),
-    (
       name: "Super STT - With COSMIC Visualizer",
       description: "Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally.",
       repo: "https://github.com/jorge-menjivar/super-stt",
       image: "https://raw.githubusercontent.com/jorge-menjivar/super-stt/refs/heads/main/.github/assets/demo-smaller.gif"
-    )
+    ),
+    (
+        name: "Toot",
+        description: "Mastodon client for COSMIC",
+        repo: "https://github.com/cosmic-utils/toot",
+        image: None,
+    ),
+    (
+        name: "Calendar",
+        description: "A calendar application for the COSMIC desktop",
+        repo: "https://github.com/cosmic-utils/calendar",
+        image: None,
+    ),
+    (
+        name: "GitWork",
+        description: "A GitHub notifications applet for the COSMIC desktop",
+        repo: "https://github.com/cosmic-utils/git-work",
+        image: None,
+    ),
+    (
+        name: "observatory",
+        description: "An in-development system monitor application for the COSMIC desktop environment",
+        repo: "https://github.com/cosmic-utils/observatory",
+        image: None,
+    ),
+    (
+        name: "andromeda",
+        description: "Disk management utility for the COSMIC™ desktop environment",
+        repo: "https://github.com/cosmic-utils/andromeda",
+        image: None,
+    ),
+    (
+        name: "cosmic-ext-storage",
+        description: "A Disk Utility for the Comsic Desktop",
+        repo: "https://github.com/cosmic-utils/cosmic-ext-storage",
+        image: None,
+    ),
+    (
+        name: "enroll",
+        description: "Fingerprint management",
+        repo: "https://github.com/cosmic-utils/enroll",
+        image: None,
+    ),
+    (
+        name: "Wizard",
+        description: "Deb packages installer made with magic for the COSMIC™ desktop!",
+        repo: "https://github.com/cosmic-utils/wizard",
+        image: None,
+    ),
   ]
 )
