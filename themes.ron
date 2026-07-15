@@ -15,15 +15,16 @@ Themes(
       image: "https://raw.githubusercontent.com/Fingel/cosmic-themes-org-py/refs/heads/main/static/img/logo.webp"
     ),
     (
-      name: "candyfactory-cosmic",
-      description: "Dark + light COSMIC themes with matching cosmic-term scheme",
-      repo: "https://github.com/BonfireAI/candyfactory-cosmic"
-    ),
-    (
         name: "cosmic-ext-brand-wallpapers",
         description: "COSMIC™ Brand Wallpapers",
         repo: "https://github.com/cosmic-utils/cosmic-ext-brand-wallpapers",
         image: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-brand-wallpapers/main/3840x2160/COSMIC-Dark.png",
+    ),
+    (
+      name: "candyfactory-cosmic",
+      description: "Dark + light COSMIC themes with matching cosmic-term scheme",
+      repo: "https://github.com/BonfireAI/candyfactory-cosmic",
+      image: None,
     ),
     (
         name: "cosmic-ext-themes",
