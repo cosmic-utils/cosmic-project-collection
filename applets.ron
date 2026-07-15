@@ -165,11 +165,6 @@ Applets(
       image: "https://raw.githubusercontent.com/petar030/cosmic-pomodoro/master/img/GruvboxDark.png"
     ),
     (
-      name: "cosmic-ssh-launcher",
-      description: "SSH launcher panel applet — quick access to hosts from ~/.ssh/config",
-      repo: "https://github.com/raph-ael/cosmic-ssh-launcher",
-    ),
-    (
       name: "cosmic-ext-whether",
       description: "Weather applet with NWS and Open-Meteo forecasts",
       repo: "https://github.com/nwxnw/cosmic-ext-whether",
@@ -200,20 +195,10 @@ Applets(
       image: "https://raw.githubusercontent.com/AceMythos/cosmic-power-monitor/main/screenshots/popup.png"
     ),
     (
-      name: "cosmic-speech-to-text",
-      description: "Speech-to-text panel applet — record voice and type transcribed text into any app. Supports Mistral, OpenAI, and local whisper.cpp",
-      repo: "https://github.com/raph-ael/cosmic-speech-to-text",
-    ),
-    (
       name: "cosmic-ext-applet-now-playing",
       description: "Shows active media in the panel",
       repo: "https://github.com/cosmic-utils/cosmic-ext-applet-now-playing",
       image: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-now-playing/refs/heads/main/res/screenshot-2.png"
-    ),
-    (
-      name: "cosmic-keepass",
-      description: "KeePass password manager panel applet — search, copy, and manage passwords from .kdbx databases",
-      repo: "https://github.com/raph-ael/cosmic-keepass",
     ),
     (
       name: "cosmic-ai-panel",
@@ -276,6 +261,18 @@ Applets(
         image: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-vigil/main/screenshot.png",
     ),
     (
+        name: "kdeconnect",
+        description: "",
+        repo: "https://github.com/cosmic-utils/kdeconnect",
+        image: None,
+    ),
+    (
+      name: "cosmic-ssh-launcher",
+      description: "SSH launcher panel applet — quick access to hosts from ~/.ssh/config",
+      repo: "https://github.com/raph-ael/cosmic-ssh-launcher",
+      image: None,
+    ),
+    (
         name: "cosmic-ext-applet-nixos-update",
         description: "",
         repo: "https://github.com/cosmic-utils/cosmic-ext-applet-nixos-update",
@@ -288,10 +285,16 @@ Applets(
         image: None,
     ),
     (
-        name: "kdeconnect",
-        description: "",
-        repo: "https://github.com/cosmic-utils/kdeconnect",
-        image: None,
+      name: "cosmic-speech-to-text",
+      description: "Speech-to-text panel applet — record voice and type transcribed text into any app. Supports Mistral, OpenAI, and local whisper.cpp",
+      repo: "https://github.com/raph-ael/cosmic-speech-to-text",
+      image: None,
+    ),
+    (
+      name: "cosmic-keepass",
+      description: "KeePass password manager panel applet — search, copy, and manage passwords from .kdbx databases",
+      repo: "https://github.com/raph-ael/cosmic-keepass",
+      image: None,
     ),
   ]
 )
