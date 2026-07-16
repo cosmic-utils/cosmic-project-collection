@@ -190,9 +190,9 @@ Applets(
     ),
     (
       name: "cosmic-power-monitor",
-      description: "Battery power monitor applet for the COSMIC™ desktop",
+      description: "Battery power monitor applet for the COSMIC™ desktop with smooth animated power display and battery bar popup",
       repo: "https://github.com/AceMythos/cosmic-power-monitor",
-      image: "https://raw.githubusercontent.com/AceMythos/cosmic-power-monitor/main/screenshots/popup.png"
+      image: "https://raw.githubusercontent.com/AceMythos/cosmic-power-monitor/main/screenshots/charge.png"
     ),
     (
       name: "cosmic-ext-applet-now-playing",
