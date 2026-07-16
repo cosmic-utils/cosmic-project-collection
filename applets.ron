@@ -225,6 +225,12 @@ Applets(
       image: "https://github.com/skylord123/cosmic-cpufreq/raw/master/img.png"
     ),
     (
+      name: "cosmic-connect",
+      description: "KDE Connect panel applet for COSMIC™ — manage paired devices, send ping/ring, sync clipboard, share files/URLs/text, browse SFTP, SMS conversations, notification mirroring, media playback control, and file transfer progress",
+      repo: "https://github.com/AceMythos/cosmic-connect",
+      image: "https://raw.githubusercontent.com/AceMythos/cosmic-connect/main/screenshots/popup.jpeg"
+    ),
+    (
       name: "cosmic-applet-claude-usage",
       description: "Minimal panel applet showing Claude Code usage as a quiet, color-coded indicator",
       repo: "https://github.com/osterbergsimon/cosmic-applet-claude-usage",
