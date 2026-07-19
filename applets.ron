@@ -231,6 +231,12 @@ Applets(
       image: "https://raw.githubusercontent.com/AceMythos/cosmic-connect/main/screenshots/popup.jpeg"
     ),
     (
+      name: "internet-speed-monitor",
+      description: "Internet speed and data usage monitor applet for the COSMIC™ desktop with live speeds, hourly sparkline, monthly bar chart, and connection details",
+      repo: "https://github.com/AceMythos/cosmic-internet-speed-monitor",
+      image: "https://raw.githubusercontent.com/AceMythos/cosmic-internet-speed-monitor/main/screenshots/Screenshot_2026-07-19_21-54-16.png"
+    ),
+    (
       name: "cosmic-applet-claude-usage",
       description: "Minimal panel applet showing Claude Code usage as a quiet, color-coded indicator",
       repo: "https://github.com/osterbergsimon/cosmic-applet-claude-usage",
