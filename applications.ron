@@ -181,6 +181,12 @@ Applications(
       description: "Super STT enables effortless voice-to-text in any application, using the most advanced speech models that run 100% locally.",
       repo: "https://github.com/jorge-menjivar/super-stt",
       image: "https://raw.githubusercontent.com/jorge-menjivar/super-stt/refs/heads/main/.github/assets/demo-smaller.gif"
+    )
+    (
+      name: "cosmic-tiling-manager",
+      description: "A GUI utility to manage window auto-tiling exceptions on the COSMIC Desktop Environment."
+      repo: "https://github.com/maugustolo/cosmic-tiling-manager",
+      image: "https://raw.githubusercontent.com/maugustolo/cosmic-tiling-manager/main/assets/screenshot.png"
     ),
     (
         name: "Toot",
@@ -228,12 +234,6 @@ Applications(
         name: "Wizard",
         description: "Deb packages installer made with magic for the COSMIC™ desktop!",
         repo: "https://github.com/cosmic-utils/wizard",
-        image: None,
-    ),
-    (
-        name: "cosmic-tiling-manager",
-        description: "A GUI utility to manage window auto-tiling exceptions on the COSMIC Desktop Environment."
-        repo: "https://github.com/maugustolo/cosmic-tiling-manager",
         image: None,
     )
   ]
