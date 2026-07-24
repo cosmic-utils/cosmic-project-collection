@@ -233,7 +233,7 @@ Applications(
     (
         name: "cosmic-tiling-manager",
         description: "A GUI utility to manage window auto-tiling exceptions on the COSMIC Desktop Environment."
-        repo: "https://github.com/magustolo/cosmic-tiling-manager",
+        repo: "https://github.com/maugustolo/cosmic-tiling-manager",
         image: None,
     )
   ]
