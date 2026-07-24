@@ -230,5 +230,11 @@ Applications(
         repo: "https://github.com/cosmic-utils/wizard",
         image: None,
     ),
+    (
+        name: "cosmic-tiling-manager",
+        description: "A GUI utility to manage window auto-tiling exceptions on the COSMIC Desktop Environment."
+        repo: "https://github.com/magustolo/cosmic-tiling-manager",
+        image: None,
+    )
   ]
 )
