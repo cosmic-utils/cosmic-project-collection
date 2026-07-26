@@ -308,5 +308,11 @@ Applets(
       repo: "https://github.com/raph-ael/cosmic-keepass",
       image: None,
     ),
+    (
+      name: "cosmic-ext-applet-taskbar",
+      description: "Windows-style taskbar — one labeled button per open window instead of grouping by app; click to focus, click again to minimize",
+      repo: "https://github.com/DRStranglove/cosmic-ext-applet-taskbar",
+      image: None,
+    ),
   ]
 )
