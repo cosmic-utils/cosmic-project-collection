@@ -97,6 +97,7 @@
 | [cosmic-ext-applet-drives](https://github.com/cosmic-utils/cosmic-ext-applet-drives) |  | |
 | [cosmic-speech-to-text](https://github.com/raph-ael/cosmic-speech-to-text) | Speech-to-text panel applet — record voice and type transcribed text into any app. Supports Mistral, OpenAI, and local whisper.cpp | |
 | [cosmic-keepass](https://github.com/raph-ael/cosmic-keepass) | KeePass password manager panel applet — search, copy, and manage passwords from .kdbx databases | |
+| [cosmic-ext-applet-taskbar](https://github.com/DRStranglove/cosmic-ext-applet-taskbar) | Windows-style taskbar — one labeled button per open window instead of grouping by app; click to focus, click again to minimize | |
 
 ## Services
 | Name | Description | Image |
