@@ -308,5 +308,11 @@ Applets(
       repo: "https://github.com/raph-ael/cosmic-keepass",
       image: None,
     ),
+    (
+      name: "cosmictify",
+      description: "Spotify panel applet for COSMIC Desktop — now playing, animated marquee, progress bar, and MPRIS media controls. Spotify-only MPRIS (won't hijack YouTube/browser players).",
+      repo: "https://github.com/brunocasarotti/cosmictify",
+      image: None,
+    ),
   ]
 )
