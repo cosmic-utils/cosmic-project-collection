@@ -101,8 +101,8 @@ Applications(
     (
         name: "Camera",
         description: "Camera application for the COSMIC™ desktop environment",
-        repo: "https://github.com/cosmic-utils/camera",
-        image: "https://raw.githubusercontent.com/cosmic-utils/camera/main/preview/preview-001.png",
+        repo: "https://github.com/cosmic-utils/cosmic-ext-camera",
+        image: "https://media.githubusercontent.com/media/cosmic-utils/cosmic-ext-camera/main/preview/preview-001.png",
     ),
     (
       name: "forecast",
