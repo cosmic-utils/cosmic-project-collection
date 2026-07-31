@@ -99,6 +99,7 @@
 | [cosmic-keepass](https://github.com/raph-ael/cosmic-keepass) | KeePass password manager panel applet — search, copy, and manage passwords from .kdbx databases | |
 | [cosmic-ext-applet-taskbar](https://github.com/DRStranglove/cosmic-ext-applet-taskbar) | Windows-style taskbar — one labeled button per open window instead of grouping by app; click to focus, click again to minimize | |
 | [cosmictify](https://github.com/brunocasarotti/cosmictify) | Spotify panel applet for COSMIC Desktop — now playing, animated marquee, progress bar, and MPRIS media controls. Spotify-only MPRIS (won't hijack YouTube/browser players). | |
+| [cosmic-media-now-playing-applet](https://github.com/stldave314/cosmic-media-now-playing-applet) | A panel applet for the COSMIC™ Desktop Environment that displays the currently playing media track with lots of features. | <img src="https://github.com/stldave314/cosmic-media-now-playing-applet/raw/main/resources/screenshot-popup.png" alt="cosmic-media-now-playing-applet" width="200"/> |
 
 ## Services
 | Name | Description | Image |
