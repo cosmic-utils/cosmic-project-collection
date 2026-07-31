@@ -320,5 +320,11 @@ Applets(
       repo: "https://github.com/brunocasarotti/cosmictify",
       image: None,
     ),
+    (
+      name: "cosmic-media-now-playing-applet",
+      description: "A panel applet for the COSMIC™ Desktop Environment that displays the currently playing media track with lots of features.",
+      repo: "https://github.com/stldave314/cosmic-media-now-playing-applet",
+      image: "https://github.com/stldave314/cosmic-media-now-playing-applet/raw/main/resources/screenshot-popup.png",
+    ),
   ]
 )
