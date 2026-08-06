@@ -326,5 +326,11 @@ Applets(
       repo: "https://github.com/stldave314/cosmic-media-now-playing-applet",
       image: "https://github.com/stldave314/cosmic-media-now-playing-applet/raw/main/resources/screenshot-popup.png",
     ),
+    (
+      name: "HoverDock",
+      description: "A COSMIC dock applet with macOS-style hover magnification, running indicators, window selection, context menus, and live synchronization with COSMIC favorites.",
+      repo: "https://github.com/techywilbur/hoverdock",
+      image: None,
+    ),
   ]
 )
