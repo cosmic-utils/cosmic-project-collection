@@ -1,0 +1,47 @@
+[package]
+name = "hoverdock"
+version = "0.1.0"
+edition = "2021"
+description = "A COSMIC panel applet that gives the dock macOS-style hover magnification"
+license = "GPL-3.0-or-later"
+
+[[bin]]
+name = "hoverdock"
+path = "src/main.rs"
+
+[dependencies]
+anyhow = "1"
+log = "0.4"
+env_logger = "0.11"
+serde = { version = "1", features = ["derive"] }
+toml = "0.9"
+
+# The panel hands applets a plain Wayland socket to its own embedded
+# compositor, so an applet is an ordinary xdg-shell client. No libcosmic, no
+# iced — the same stack TechyDock proved out.
+smithay-client-toolkit = "0.20"
+wayland-client = "0.31"
+wayland-protocols = { version = "0.32", features = ["client", "staging"] }
+calloop = "0.14"
+calloop-wayland-source = "0.4"
+
+# The COSMIC extensions the dock needs to see your open windows. Pinned to the
+# same revision cosmic-applets itself uses: a protocol description that moves
+# under you is a runtime protocol error, not a compile error.
+cosmic-protocols = { git = "https://github.com/pop-os/cosmic-protocols", default-features = false, features = [
+    "client",
+], rev = "a7d2d7a" }
+
+tiny-skia = "0.11"
+cosmic-text = "0.19"
+resvg = "0.45"
+image = { version = "0.25", default-features = false, features = ["png", "jpeg"] }
+
+freedesktop-desktop-entry = "0.7"
+freedesktop-icons = "0.4"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+strip = true
