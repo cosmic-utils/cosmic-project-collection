@@ -326,5 +326,11 @@ Applets(
       repo: "https://github.com/stldave314/cosmic-media-now-playing-applet",
       image: "https://github.com/stldave314/cosmic-media-now-playing-applet/raw/main/resources/screenshot-popup.png",
     ),
+    (
+      name: "cosmic-ext-applet-cheatsheet",
+      description: "Searchable cheat sheet of your real keyboard shortcuts, read from your own COSMIC config including custom bindings. Opens as a panel applet or a Super+C overlay, with a learning mode to hide the ones you already know.",
+      repo: "https://github.com/tomashaa/cosmic-ext-applet-cheatsheet",
+      image: "https://raw.githubusercontent.com/tomashaa/cosmic-ext-applet-cheatsheet/main/assets/screenshot.jpg",
+    ),
   ]
 )
