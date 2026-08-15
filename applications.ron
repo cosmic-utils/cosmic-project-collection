@@ -235,6 +235,12 @@ Applications(
         description: "Deb packages installer made with magic for the COSMIC™ desktop!",
         repo: "https://github.com/cosmic-utils/wizard",
         image: None,
+    ),
+    (
+        name: "Cosmic Dynamic Wallpaper",
+        description: "Dynamic wallpaper daemon for the COSMIC™ desktop that smoothly rotates wallpapers throughout the day based on your location!",
+        repo: "https://github.com/iampaulmata/cosmic-dynamic-wallpaper",
+        image: https://github.com/iampaulmata/cosmic-dynamic-wallpaper/docs/images/settings-packs-page.png,
     )
   ]
 )
