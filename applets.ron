@@ -332,5 +332,11 @@ Applets(
       repo: "https://github.com/tomashaa/cosmic-ext-applet-cheatsheet",
       image: "https://raw.githubusercontent.com/tomashaa/cosmic-ext-applet-cheatsheet/main/assets/screenshot.jpg",
     ),
+    (
+      name: "cosmic-ext-status-hub",
+      description: "A standalone StatusNotifierItem tray for COSMIC with pinned items, multi-monitor consistency, COSMIC theme integration, app activation, and context menus in a compact panel applet.",
+      repo: "https://github.com/marcelogomes90/cosmic-ext-applet-status-hub",
+      image: "https://github.com/marcelogomes90/cosmic-ext-applet-status-hub/raw/main/resources/screenshots/item-menu.png",
+    ),
   ]
 )
