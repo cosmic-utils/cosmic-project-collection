@@ -235,6 +235,12 @@ Applications(
         description: "Deb packages installer made with magic for the COSMIC™ desktop!",
         repo: "https://github.com/cosmic-utils/wizard",
         image: None,
+    ),
+    (
+        name: "moonlight-clock-cosmic",
+        description: "Native Persona 3 inspired desktop clock for COSMIC Wayland",
+        repo: "https://github.com/yyc94/moonlight-clock-cosmic",
+        image: "https://github.com/yyc94/moonlight-clock-cosmic/blob/main/assets/preview.png",
     )
   ]
 )
