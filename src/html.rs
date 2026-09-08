@@ -88,13 +88,13 @@ fn write_applications(html: &mut String, applications: Applications) {
             project.name,
             project.description,
             project.repo,
-            
         ));
     }
 }
 
 fn write_applets(html: &mut String, applets: Applets) {
-    html.push_str(r#"<div class="col-span-full mb-2">
+    html.push_str(
+        r#"<div class="col-span-full mb-2">
                 <h2 class="text-3xl font-bold text-zinc-800 dark:text-white mb-4">
                     Applets
                 </h2>
@@ -119,13 +119,13 @@ fn write_applets(html: &mut String, applets: Applets) {
             project.name,
             project.description,
             project.repo,
-            
         ));
     }
 }
 
 fn write_themes(html: &mut String, themes: Themes) {
-    html.push_str(r#"<div class="col-span-full mb-2">
+    html.push_str(
+        r#"<div class="col-span-full mb-2">
                 <h2 class="text-3xl font-bold text-zinc-800 dark:text-white mb-4">
                     Themes
                 </h2>
@@ -150,13 +150,13 @@ fn write_themes(html: &mut String, themes: Themes) {
             project.name,
             project.description,
             project.repo,
-            
         ));
     }
 }
 
 fn write_services(html: &mut String, services: Services) {
-    html.push_str(r#"<div class="col-span-full mb-2">
+    html.push_str(
+        r#"<div class="col-span-full mb-2">
                 <h2 class="text-3xl font-bold text-zinc-800 dark:text-white mb-4">
                     Services
                 </h2>
@@ -181,13 +181,13 @@ fn write_services(html: &mut String, services: Services) {
             project.name,
             project.description,
             project.repo,
-            
         ));
     }
 }
 
 fn write_scripts(html: &mut String, scripts: Scripts) {
-    html.push_str(r#"<div class="col-span-full mb-2">
+    html.push_str(
+        r#"<div class="col-span-full mb-2">
                 <h2 class="text-3xl font-bold text-zinc-800 dark:text-white mb-4">
                     Scripts
                 </h2>
@@ -212,7 +212,6 @@ fn write_scripts(html: &mut String, scripts: Scripts) {
             project.name,
             project.description,
             project.repo,
-            
         ));
     }
 }
