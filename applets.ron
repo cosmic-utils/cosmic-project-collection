@@ -338,5 +338,11 @@ Applets(
       repo: "https://github.com/marcelogomes90/cosmic-ext-applet-status-hub",
       image: "https://github.com/marcelogomes90/cosmic-ext-applet-status-hub/raw/main/resources/screenshots/item-menu.png",
     ),
+    (
+      name: "cosmic-ext-applet-wifi-plus",
+      description: "An Omarchy-style Wi-Fi panel: live link metrics, Wi-Fi band pinning, DNS switching and QR sharing.",
+      repo: "https://github.com/marcelo-t-tomita/cosmic-ext-applet-wifi-plus",
+      image: "https://raw.githubusercontent.com/marcelo-t-tomita/cosmic-ext-applet-wifi-plus/main/docs/panel-en.png",
+    ),
   ]
 )
