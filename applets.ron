@@ -338,5 +338,11 @@ Applets(
       repo: "https://github.com/marcelogomes90/cosmic-ext-applet-status-hub",
       image: "https://github.com/marcelogomes90/cosmic-ext-applet-status-hub/raw/main/resources/screenshots/item-menu.png",
     ),
+    (
+      name: "cosmic-ext-applet-battery-health",
+      description: "Battery health, cycle count and live power flow at a glance. Surfaces learned capacity against design capacity and the cycle counter the stock applet omits, plus guidance on the 40-60% band that slows calendar ageing during long storage.",
+      repo: "https://github.com/marcelo-t-tomita/cosmic-ext-applet-battery-health",
+      image: "https://raw.githubusercontent.com/marcelo-t-tomita/cosmic-ext-applet-battery-health/main/docs/screenshot.png",
+    ),
   ]
 )
