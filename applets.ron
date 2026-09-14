@@ -338,5 +338,11 @@ Applets(
       repo: "https://github.com/marcelogomes90/cosmic-ext-applet-status-hub",
       image: "https://github.com/marcelogomes90/cosmic-ext-applet-status-hub/raw/main/resources/screenshots/item-menu.png",
     ),
+    (
+      name: "cosmic-ext-applet-container-manager",
+      description: "Manage Docker and Podman containers from COSMIC Desktop",
+      repo: "https://github.com/cosmic-utils/cosmic-ext-applet-container-manager",
+      image: "https://media.githubusercontent.com/media/cosmic-utils/cosmic-ext-applet-container-manager/main/screenshots/container-manager-popup.png",
+    ),
   ]
 )
