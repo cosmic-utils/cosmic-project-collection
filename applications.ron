@@ -105,6 +105,12 @@ Applications(
         image: "https://media.githubusercontent.com/media/cosmic-utils/cosmic-ext-camera/main/preview/preview-001.png",
     ),
     (
+        name: "Compass",
+        description: "A responsive compass for Linux desktops and phones",
+        repo: "https://github.com/cosmic-utils/cosmic-ext-compass",
+        image: "https://media.githubusercontent.com/media/cosmic-utils/cosmic-ext-compass/main/preview/preview-001.png",
+    ),
+    (
       name: "forecast",
       description: "A simple weather application for the COSMIC™ Desktop",
       repo: "https://github.com/cosmic-utils/forecast",
