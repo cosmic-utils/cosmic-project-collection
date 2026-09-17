@@ -110,6 +110,7 @@
 | Name | Description | Image |
 |---|---|---|
 | [COSMIC Background Wallpaper](https://github.com/wash2/cosmic_ext_bg_theme) | Unofficial service for syncing the theme with the wallpaper for the COSMIC™ desktop | |
+| [cosmic-ext-ime](https://github.com/wanleung/cosmic-ext-ime) | Input method for COSMIC: Cangjie / Quick (倉頡／速成) via libcangjie2 and any RIME schema via librime, with a themed candidate popup and a settings app | |
 
 ## Themes
 | Name | Description | Image |
