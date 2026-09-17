@@ -338,5 +338,11 @@ Applets(
       repo: "https://github.com/marcelogomes90/cosmic-ext-applet-status-hub",
       image: "https://github.com/marcelogomes90/cosmic-ext-applet-status-hub/raw/main/resources/screenshots/item-menu.png",
     ),
+    (
+      name: "cosmic-macos-applets",
+      description: "A macOS-style menu bar for COSMIC — system menu, active application, and Control Center panel applets, plus a setup tool that restyles the existing top panel.",
+      repo: "https://github.com/cmjcode/cosmic-macos-applets",
+      image: "https://raw.githubusercontent.com/cmjcode/cosmic-macos-applets/main/screenshot/macos-applet.png",
+    ),
   ]
 )
