@@ -340,7 +340,7 @@ Applets(
     ),
     (
       name: "cosmic-macos-applets",
-      description: "A macOS-style menu bar for COSMIC — system menu, active application, and Control Center panel applets, plus a setup tool that restyles the existing top panel.",
+      description: "A macOS-style menu bar for COSMIC — system menu, active application, and Control Center panel applets, plus a setup tool that restyles the existing top panel. Also includes an experimental global menu, configurable notification position (any corner or top/bottom center), and opt-in three-finger drag.",
       repo: "https://github.com/cmjcode/cosmic-macos-applets",
       image: "https://raw.githubusercontent.com/cmjcode/cosmic-macos-applets/main/screenshot/macos-applet.png",
     ),
