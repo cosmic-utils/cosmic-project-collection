@@ -6,6 +6,11 @@ Services(
       name: "COSMIC Background Wallpaper",
       description: "Unofficial service for syncing the theme with the wallpaper for the COSMIC™ desktop",
       repo: "https://github.com/wash2/cosmic_ext_bg_theme",
+    ),
+    (
+      name: "cosmic-ext-ime",
+      description: "Input method for COSMIC: Cangjie / Quick (倉頡／速成) via libcangjie2 and any RIME schema via librime, with a themed candidate popup and a settings app",
+      repo: "https://github.com/wanleung/cosmic-ext-ime",
     )
   ]
 )

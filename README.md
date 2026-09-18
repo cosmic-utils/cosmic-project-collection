@@ -20,6 +20,7 @@
 | [Stellarshot](https://github.com/cosmic-utils/stellarshot) | A simple backup application using Restic/Rustic for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/cosmic-utils/stellarshot/main/res/screenshots/Stellarshot-Light.png" alt="Stellarshot" width="200"/> |
 | [cosmic-dirstat](https://github.com/Koranir/cosmic-dirstat) | KDirStat-esque disk usage analyzer using the libcosmic toolkit. | <img src="https://raw.githubusercontent.com/Koranir/cosmic-dirstat/master/img/screenshot.png" alt="cosmic-dirstat" width="200"/> |
 | [Camera](https://github.com/cosmic-utils/cosmic-ext-camera) | Camera application for the COSMIC™ desktop environment | <img src="https://media.githubusercontent.com/media/cosmic-utils/cosmic-ext-camera/main/preview/preview-001.png" alt="Camera" width="200"/> |
+| [Compass](https://github.com/cosmic-utils/cosmic-ext-compass) | A responsive compass for Linux desktops and phones | <img src="https://media.githubusercontent.com/media/cosmic-utils/cosmic-ext-compass/main/preview/preview-001.png" alt="Compass" width="200"/> |
 | [forecast](https://github.com/cosmic-utils/forecast) | A simple weather application for the COSMIC™ Desktop | <img src="https://raw.githubusercontent.com/cosmic-utils/forecast/main/screenshots/window.png" alt="forecast" width="200"/> |
 | [examine](https://github.com/cosmic-utils/examine) | A system information viewer for the COSMIC™ Desktop | <img src="https://raw.githubusercontent.com/cosmic-utils/examine/main/res/screenshots/distribution.png" alt="examine" width="200"/> |
 | [cosmic-ext-2048](https://github.com/Kartonrealista/cosmic-ext-2048) | A 2048 game written in libcosmic and Rust | <img src="https://raw.githubusercontent.com/Kartonrealista/cosmic-ext-2048/main/screenshots/s1.png" alt="cosmic-ext-2048" width="200"/> |
@@ -103,11 +104,13 @@
 | [cosmic-media-now-playing-applet](https://github.com/stldave314/cosmic-media-now-playing-applet) | A panel applet for the COSMIC™ Desktop Environment that displays the currently playing media track with lots of features. | <img src="https://github.com/stldave314/cosmic-media-now-playing-applet/raw/main/resources/screenshot-popup.png" alt="cosmic-media-now-playing-applet" width="200"/> |
 | [cosmic-ext-applet-cheatsheet](https://github.com/tomashaa/cosmic-ext-applet-cheatsheet) | Searchable cheat sheet of your real keyboard shortcuts, read from your own COSMIC config including custom bindings. Opens as a panel applet or a Super+C overlay, with a learning mode to hide the ones you already know. | <img src="https://raw.githubusercontent.com/tomashaa/cosmic-ext-applet-cheatsheet/main/assets/screenshot.jpg" alt="cosmic-ext-applet-cheatsheet" width="200"/> |
 | [cosmic-ext-status-hub](https://github.com/marcelogomes90/cosmic-ext-applet-status-hub) | A standalone StatusNotifierItem tray for COSMIC with pinned items, multi-monitor consistency, COSMIC theme integration, app activation, and context menus in a compact panel applet. | <img src="https://github.com/marcelogomes90/cosmic-ext-applet-status-hub/raw/main/resources/screenshots/item-menu.png" alt="cosmic-ext-status-hub" width="200"/> |
+| [cosmic-ext-applet-container-manager](https://github.com/cosmic-utils/cosmic-ext-applet-container-manager) | Manage Docker and Podman containers from COSMIC Desktop | <img src="https://media.githubusercontent.com/media/cosmic-utils/cosmic-ext-applet-container-manager/main/screenshots/container-manager-popup.png" alt="cosmic-ext-applet-container-manager" width="200"/> |
 
 ## Services
 | Name | Description | Image |
 |---|---|---|
 | [COSMIC Background Wallpaper](https://github.com/wash2/cosmic_ext_bg_theme) | Unofficial service for syncing the theme with the wallpaper for the COSMIC™ desktop | |
+| [cosmic-ext-ime](https://github.com/wanleung/cosmic-ext-ime) | Input method for COSMIC: Cangjie / Quick (倉頡／速成) via libcangjie2 and any RIME schema via librime, with a themed candidate popup and a settings app | |
 
 ## Themes
 | Name | Description | Image |

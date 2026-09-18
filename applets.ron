@@ -344,5 +344,11 @@ Applets(
       repo: "https://github.com/cmjcode/cosmic-macos-applets",
       image: "https://raw.githubusercontent.com/cmjcode/cosmic-macos-applets/main/screenshot/macos-applet.png",
     ),
+    (
+      name: "cosmic-ext-applet-container-manager",
+      description: "Manage Docker and Podman containers from COSMIC Desktop",
+      repo: "https://github.com/cosmic-utils/cosmic-ext-applet-container-manager",
+      image: "https://media.githubusercontent.com/media/cosmic-utils/cosmic-ext-applet-container-manager/main/screenshots/container-manager-popup.png",
+    ),
   ]
 )
