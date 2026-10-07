@@ -344,5 +344,11 @@ Applets(
       repo: "https://github.com/cosmic-utils/cosmic-ext-applet-container-manager",
       image: "https://media.githubusercontent.com/media/cosmic-utils/cosmic-ext-applet-container-manager/main/screenshots/container-manager-popup.png",
     ),
+    (
+      name: "Apsis",
+      description: "System snapshot and restore",
+      repo: "https://github.com/atraxsrc/apsis",
+      image: "https://raw.githubusercontent.com/atraxsrc/apsis/v0.6.1/docs/4.png",
+    ),
   ]
 )
