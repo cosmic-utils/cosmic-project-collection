@@ -348,7 +348,7 @@ Applets(
       name: "Apsis",
       description: "System snapshot and restore",
       repo: "https://github.com/atraxsrc/apsis",
-      image: "https://raw.githubusercontent.com/atraxsrc/apsis/v0.6.1/docs/4.png",
+      image: "https://raw.githubusercontent.com/atraxsrc/apsis/v0.6.2/docs/4.png",
     ),
   ]
 )
