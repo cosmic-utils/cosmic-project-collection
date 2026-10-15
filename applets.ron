@@ -155,7 +155,7 @@ Applets(
     (
       name: "cosmic-applet-mare",
       description: "TIDAL music streaming applet for COSMIC™ — Hi-Res audio, spectrum visualizer, and MPRIS integration",
-      repo: "https://github.com/glima/mare-player",
+      repo: "https://glima.github.io/mare-player/",
       image: "https://raw.githubusercontent.com/glima/mare-player/main/resources/screenshot_applet.png"
     ),
     (
