@@ -247,6 +247,12 @@ Applications(
         description: "Native Persona 3 inspired desktop clock for COSMIC Wayland",
         repo: "https://github.com/yyc94/moonlight-clock-cosmic",
         image: "https://github.com/yyc94/moonlight-clock-cosmic/blob/main/assets/preview.png",
+    ),
+    (
+        name: "Activate Linux",
+        description: "The \"Activate Windows\" watermark, for the COSMIC™ desktop",
+        repo: "https://github.com/bbbenji/cosmic-ext-activate-linux",
+        image: "https://raw.githubusercontent.com/bbbenji/cosmic-ext-activate-linux/master/resources/screenshots/settings.png",
     )
   ]
 )
