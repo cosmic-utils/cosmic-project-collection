@@ -129,10 +129,10 @@ Applets(
       image: "https://raw.githubusercontent.com/Ebbo/cosmic-applet-package-updater/master/screenshots/Package-Updater-Main.png"
     ),
     (
-      name: "cosmic-applet-systemstats",
+      name: "cosmic-ext-applet-systemstats",
       description: "Compact system monitor with CPU/GPU temps, memory, and network speeds",
-      repo: "https://github.com/rylan-x/cosmic-applet-systemstats",
-      image: "https://raw.githubusercontent.com/rylan-x/cosmic-applet-systemstats/main/res/screenshots/systemstats.png"
+      repo: "https://github.com/rylan-ops/cosmic-ext-applet-systemstats",
+      image: "https://raw.githubusercontent.com/rylan-ops/cosmic-ext-applet-systemstats/main/res/screenshots/systemstats.png"
     ),
     (
       name: "cosmic-ext-applet-dict",
