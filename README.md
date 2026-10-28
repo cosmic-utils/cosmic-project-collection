@@ -44,6 +44,7 @@
 | [enroll](https://github.com/cosmic-utils/enroll) | Fingerprint management | |
 | [Wizard](https://github.com/cosmic-utils/wizard) | Deb packages installer made with magic for the COSMIC™ desktop! | |
 | [moonlight-clock-cosmic](https://github.com/yyc94/moonlight-clock-cosmic) | Native Persona 3 inspired desktop clock for COSMIC Wayland | <img src="https://github.com/yyc94/moonlight-clock-cosmic/blob/main/assets/preview.png" alt="moonlight-clock-cosmic" width="200"/> |
+| [Activate Linux](https://github.com/bbbenji/cosmic-ext-activate-linux) | The "Activate Windows" watermark, for the COSMIC™ desktop | <img src="https://raw.githubusercontent.com/bbbenji/cosmic-ext-activate-linux/master/resources/screenshots/settings.png" alt="Activate Linux" width="200"/> |
 
 ## Applets
 | Name | Description | Image |
