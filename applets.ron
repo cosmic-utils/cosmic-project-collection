@@ -350,5 +350,11 @@ Applets(
       repo: "https://github.com/atraxsrc/apsis",
       image: "https://raw.githubusercontent.com/atraxsrc/apsis/v0.6.2/docs/4.png",
     ),
+    (
+      name: "Orbit",
+      description: "A native file shelf and panel applet for the COSMIC™ desktop.",
+      repo: "https://github.com/motixo/orbit",
+      image: "https://raw.githubusercontent.com/motixo/orbit/main/.github/showcase/orbit2.gif",
+    ),
   ]
 )
