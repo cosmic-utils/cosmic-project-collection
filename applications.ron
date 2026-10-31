@@ -253,6 +253,12 @@ Applications(
         description: "The \"Activate Windows\" watermark, for the COSMIC™ desktop",
         repo: "https://github.com/bbbenji/cosmic-ext-activate-linux",
         image: "https://raw.githubusercontent.com/bbbenji/cosmic-ext-activate-linux/master/resources/screenshots/settings.png",
-    )
+    ),
+    (
+      name: "Orbit",
+      description: "A native file shelf and panel applet for the COSMIC™ desktop.",
+      repo: "https://github.com/motixo/orbit",
+      image: "https://raw.githubusercontent.com/motixo/orbit/main/.github/showcase/orbit2.gif",
+    ),
   ]
 )
