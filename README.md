@@ -107,6 +107,7 @@
 | [cosmic-ext-status-hub](https://github.com/marcelogomes90/cosmic-ext-applet-status-hub) | A standalone StatusNotifierItem tray for COSMIC with pinned items, multi-monitor consistency, COSMIC theme integration, app activation, and context menus in a compact panel applet. | <img src="https://github.com/marcelogomes90/cosmic-ext-applet-status-hub/raw/main/resources/screenshots/item-menu.png" alt="cosmic-ext-status-hub" width="200"/> |
 | [cosmic-ext-applet-container-manager](https://github.com/cosmic-utils/cosmic-ext-applet-container-manager) | Manage Docker and Podman containers from COSMIC Desktop | <img src="https://media.githubusercontent.com/media/cosmic-utils/cosmic-ext-applet-container-manager/main/screenshots/container-manager-popup.png" alt="cosmic-ext-applet-container-manager" width="200"/> |
 | [Apsis](https://github.com/atraxsrc/apsis) | System snapshot and restore | <img src="https://raw.githubusercontent.com/atraxsrc/apsis/v0.6.2/docs/4.png" alt="Apsis" width="200"/> |
+| [Orbit](https://github.com/motixo/orbit) | A native file shelf and panel applet for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/motixo/orbit/main/.github/showcase/orbit2.gif" alt="Orbit" width="200"/> |
 
 ## Services
 | Name | Description | Image |
