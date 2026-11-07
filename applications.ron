@@ -253,6 +253,12 @@ Applications(
         description: "The \"Activate Windows\" watermark, for the COSMIC™ desktop",
         repo: "https://github.com/bbbenji/cosmic-ext-activate-linux",
         image: "https://raw.githubusercontent.com/bbbenji/cosmic-ext-activate-linux/master/resources/screenshots/settings.png",
+    ),
+    (
+        name: "Astroute",
+        description: "Per-app network access, interface routing and proxy controls for COSMIC.",
+        repo: "https://github.com/cosmic-utils/astroute",
+        image: "https://raw.githubusercontent.com/cosmic-utils/astroute/main/docs/images/astroute.png",
     )
   ]
 )
