@@ -356,5 +356,11 @@ Applets(
       repo: "https://github.com/motixo/orbit",
       image: "https://raw.githubusercontent.com/motixo/orbit/main/.github/showcase/orbit2.gif",
     ),
+    (
+      name: "ClipManager",
+      description: "Clipboard history applet for the COSMIC™ panel — search, pin, private mode, and a Super+V popup.",
+      repo: "https://github.com/AceMythos/ClipManager",
+      image: "https://raw.githubusercontent.com/AceMythos/ClipManager/main/assets/popup.png",
+    ),
   ]
 )
