@@ -234,7 +234,7 @@ Applets(
       name: "internet-speed-monitor",
       description: "Internet speed and data usage monitor applet for the COSMIC™ desktop with live speeds, hourly sparkline, monthly bar chart, and connection details",
       repo: "https://github.com/AceMythos/cosmic-internet-speed-monitor",
-      image: "https://raw.githubusercontent.com/AceMythos/cosmic-internet-speed-monitor/main/screenshots/Screenshot_2026-07-19_21-54-16.png"
+      image: "https://raw.githubusercontent.com/AceMythos/cosmic-internet-speed-monitor/main/screenshots/Screenshot_2026-10-24_22-29-16.png"
     ),
     (
       name: "cosmic-applet-claude-usage",
