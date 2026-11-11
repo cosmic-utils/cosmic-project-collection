@@ -362,5 +362,11 @@ Applets(
       repo: "https://github.com/AceMythos/ClipManager",
       image: "https://raw.githubusercontent.com/AceMythos/ClipManager/main/assets/popup.png",
     ),
+    (
+      name: "Puron",
+      description: "COSMIC™ panel applet that shows hardware sensor readings: temperatures, fan speeds, voltages and liquid cooling.",
+      repo: "https://github.com/elalonde/puron",
+      image: "https://raw.githubusercontent.com/elalonde/puron/master/docs/screenshot.png",
+    ),
   ]
 )
