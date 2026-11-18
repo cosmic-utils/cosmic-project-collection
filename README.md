@@ -110,6 +110,7 @@
 | [Apsis](https://github.com/atraxsrc/apsis) | System snapshot and restore | <img src="https://raw.githubusercontent.com/atraxsrc/apsis/v0.6.2/docs/4.png" alt="Apsis" width="200"/> |
 | [Orbit](https://github.com/motixo/orbit) | A native file shelf and panel applet for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/motixo/orbit/main/.github/showcase/orbit2.gif" alt="Orbit" width="200"/> |
 | [ClipManager](https://github.com/AceMythos/ClipManager) | Clipboard history applet for the COSMIC™ panel — search, pin, private mode, and a Super+V popup. | <img src="https://raw.githubusercontent.com/AceMythos/ClipManager/main/assets/popup.png" alt="ClipManager" width="200"/> |
+| [Puron](https://github.com/elalonde/puron) | COSMIC™ panel applet that shows hardware sensor readings: temperatures, fan speeds, voltages and liquid cooling. | <img src="https://raw.githubusercontent.com/elalonde/puron/master/docs/screenshot.png" alt="Puron" width="200"/> |
 
 ## Services
 | Name | Description | Image |
