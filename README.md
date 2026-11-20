@@ -111,7 +111,7 @@
 | [Orbit](https://github.com/motixo/orbit) | A native file shelf and panel applet for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/motixo/orbit/main/.github/showcase/orbit2.gif" alt="Orbit" width="200"/> |
 | [ClipManager](https://github.com/AceMythos/ClipManager) | Clipboard history applet for the COSMIC™ panel — search, pin, private mode, and a Super+V popup. | <img src="https://raw.githubusercontent.com/AceMythos/ClipManager/main/assets/popup.png" alt="ClipManager" width="200"/> |
 | [Puron](https://github.com/elalonde/puron) | COSMIC™ panel applet that shows hardware sensor readings: temperatures, fan speeds, voltages and liquid cooling. | <img src="https://raw.githubusercontent.com/elalonde/puron/master/docs/screenshot.png" alt="Puron" width="200"/> |
-| [ChatAI](https://github.com/anagh9090/cosmic-ext-applet-chatai) | A fork of Ollama Applet, this applet enables the user to use APIs for AI usage instead of only local models. | <img src="https://raw.githubusercontent.com/anagh9090/cosmic-ext-applet-chatai/main/screenshots/chat.png" alt="Puron" width="200"/> |
+| [ChatAI](https://github.com/anagh9090/cosmic-ext-applet-chatai) | A fork of Ollama Applet, this applet enables the user to use APIs for AI usage instead of only local models. | <img src="https://raw.githubusercontent.com/anagh9090/cosmic-ext-applet-chatai/main/screenshots/chat.png" alt="ChatAI"/> |
 
 ## Services
 | Name | Description | Image |
