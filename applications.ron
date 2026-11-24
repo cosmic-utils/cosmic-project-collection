@@ -259,6 +259,12 @@ Applications(
         description: "Per-app network access, interface routing and proxy controls for COSMIC.",
         repo: "https://github.com/cosmic-utils/astroute",
         image: "https://raw.githubusercontent.com/cosmic-utils/astroute/main/docs/images/astroute.png",
+    ),
+    (
+        name: "Airlock",
+        description: "Workspace-isolated Alt+Tab for the COSMIC™ desktop: cycles only the windows on the current workspace.",
+        repo: "https://github.com/l1br3-io/cosmic-ext-airlock",
+        image: "https://raw.githubusercontent.com/l1br3-io/cosmic-ext-airlock/main/docs/img/overlay-card.png",
     )
   ]
 )
