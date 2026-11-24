@@ -372,6 +372,7 @@ Applets(
       name: "Avestruz",
       description: "Nostr client in the COSMIC™ panel — feed, threads, zaps, media and your relays in a popup, keyboard-driven, pure Rust.",
       repo: "https://glima.github.io/avestruz/",
+      image: "https://raw.githubusercontent.com/glima/avestruz/main/resources/screenshot_applet.png",
     ),
   ]
 )
