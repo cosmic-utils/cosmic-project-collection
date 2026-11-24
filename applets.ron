@@ -368,5 +368,10 @@ Applets(
       repo: "https://github.com/elalonde/puron",
       image: "https://raw.githubusercontent.com/elalonde/puron/master/docs/screenshot.png",
     ),
+    (
+      name: "Avestruz",
+      description: "Nostr client in the COSMIC™ panel — feed, threads, zaps, media and your relays in a popup, keyboard-driven, pure Rust.",
+      repo: "https://glima.github.io/avestruz/",
+    ),
   ]
 )
