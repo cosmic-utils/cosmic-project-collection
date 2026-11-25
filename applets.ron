@@ -368,5 +368,11 @@ Applets(
       repo: "https://github.com/elalonde/puron",
       image: "https://raw.githubusercontent.com/elalonde/puron/master/docs/screenshot.png",
     ),
+    (
+      name: "ChatAI",
+      description: "A fork of Ollama Applet, this applet enables the user to use APIs for AI usage instead of only local models.",
+      repo: "https://github.com/anagh9090/cosmic-ext-applet-chatai",
+      image: "https://raw.githubusercontent.com/anagh9090/cosmic-ext-applet-chatai/main/screenshots/chat.png",
+    ),
   ]
 )
