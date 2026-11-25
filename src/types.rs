@@ -6,6 +6,8 @@ pub struct Applet {
     pub description: String,
     pub repo: String,
     pub image: Option<String>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub icon: Option<String>,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -19,6 +21,8 @@ pub struct Application {
     pub description: String,
     pub repo: String,
     pub image: Option<String>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub icon: Option<String>,
 }
 
 #[derive(Debug, Serialize, Deserialize)]

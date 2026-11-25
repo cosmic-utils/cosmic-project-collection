@@ -6,18 +6,21 @@ Applets(
       name: "clippy-land",
       description: "COSMIC panel applet for keeping a history of recently copied text and images",
       repo: "https://github.com/k33wee/clippy-land",
+      icon: "https://raw.githubusercontent.com/k33wee/clippy-land/HEAD/resources/icon.svg",
       image: "https://raw.githubusercontent.com/k33wee/clippy-land/main/resources/example.png"
     ),
     (
       name: "cosmic-applet-apps-menu",
       description: "Category based menu for apps.",
       repo: "https://github.com/leb-kuchen/cosmic-applet-apps-menu",
+      icon: "https://raw.githubusercontent.com/leb-kuchen/cosmic-applet-apps-menu/HEAD/data/icons/scalable/apps/dev.dominiccgeh.CosmicAppletAppsMenu.svg",
       image: "https://preview.redd.it/here-there-are-cosmics-version-of-gnomes-popular-extension-v0-6q8jqqpeh9pc1.png?width=640&crop=smart&auto=webp&s=0f7f5e22e17ac565bc2a5365592da084f3f411cd"
     ),
     (
       name: "cbar",
       description: "Scriptable COSMIC panel applet for local plugins, live panel text, popup actions, and catalog-based plugin discovery.",
       repo: "https://github.com/alexandreprates/cbar",
+      icon: "https://raw.githubusercontent.com/alexandreprates/cbar/HEAD/data/icons/scalable/apps/io.github.alexprates.CBar.svg",
       image: "https://raw.githubusercontent.com/alexandreprates/cbar/main/docs/screenshots/cbar-plugin-actions.png"
     ),
     (
@@ -30,12 +33,14 @@ Applets(
       name: "cosmic-ext-classic-menu",
       description: "Menu applet for launching applications",
       repo: "https://github.com/championpeak87/cosmic-ext-classic-menu",
+      icon: "https://raw.githubusercontent.com/championpeak87/cosmic-ext-classic-menu/HEAD/res/icons/hicolor/scalable/apps/com.championpeak87.cosmic-ext-classic-menu.svg",
       image: "https://raw.githubusercontent.com/championpeak87/cosmic-ext-classic-menu/master/screenshots/cosmic-ext-classic-menu-applet.png"
     ),
     (
       name: "clipboard-manager",
       description: "Clipboard manager for COSMIC™",
       repo: "https://github.com/cosmic-utils/clipboard-manager",
+      icon: "https://raw.githubusercontent.com/cosmic-utils/clipboard-manager/HEAD/res/app_icon.svg",
       image: "https://media.githubusercontent.com/media/cosmic-utils/clipboard-manager/master/res/screenshots/main_popup.png"
     ),
     (
@@ -66,12 +71,14 @@ Applets(
       name: "cosmic-applet-minimon",
       description: "Applet for displaying CPU and RAM utilization",
       repo: "https://github.com/cosmic-utils/minimon-applet",
+      icon: "https://raw.githubusercontent.com/cosmic-utils/minimon-applet/HEAD/res/icons/apps/io.github.cosmic_utils.minimon-applet.svg",
       image: "https://raw.githubusercontent.com/cosmic-utils/minimon-applet/main/cosmic-applet-minimon.png"
     ),
     (
       name: "cosmic-ext-applet-system-monitor",
       description: "Configurable system monitor applet",
       repo: "https://github.com/D-Brox/cosmic-ext-applet-system-monitor",
+      icon: "https://raw.githubusercontent.com/D-Brox/cosmic-ext-applet-system-monitor/HEAD/res/dev.DBrox.CosmicSystemMonitor.svg",
       image: "https://github.com/D-Brox/cosmic-ext-applet-system-monitor/raw/master/res/screenshot.png"
     ),
     (
@@ -84,12 +91,14 @@ Applets(
       name: "cosmic-ext-applet-caffeine",
       description: "Prevents your screen from going to sleep",
       repo: "https://github.com/tropicbliss/cosmic-ext-applet-caffeine",
+      icon: "https://raw.githubusercontent.com/tropicbliss/cosmic-ext-applet-caffeine/HEAD/res/net.tropicbliss.CosmicExtAppletCaffeine-full.svg",
       image: "https://raw.githubusercontent.com/tropicbliss/cosmic-ext-applet-caffeine/refs/heads/main/res/screenshot.png"
     ),
     (
       name: "cosmic-ext-applet-privacy-indicator",
       description: "Privacy Indicator applet for COSMIC",
       repo: "https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator",
+      icon: "https://raw.githubusercontent.com/D-Brox/cosmic-ext-applet-privacy-indicator/HEAD/res/dev.DBrox.CosmicPrivacyIndicator.svg",
       image: "https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator/raw/master/res/screenshot.png"
     ),
     (
@@ -102,6 +111,7 @@ Applets(
       name: "cosmic-ext-applet-logomenu",
       description: "A simple quick access 'Logo menu' to collect your launcher options in one place with the logo of your choice.",
       repo: "https://github.com/cosmic-utils/cosmic-ext-applet-logomenu",
+      icon: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-logomenu/HEAD/res/icons/hicolor/scalable/apps/dev.cappsy.CosmicExtAppletLogoMenu.svg",
       image: "https://github.com/cosmic-utils/cosmic-ext-applet-logomenu/raw/main/screenshots/cosmic-ext-applet-logomenu.png?raw=true"
     ),
     (
@@ -114,24 +124,28 @@ Applets(
       name: "cosmic-ext-applet-vitals",
       description: "A minimal configurable applet to display basic system resource usage",
       repo: "https://github.com/Coinio/cosmic-ext-applet-vitals",
+      icon: "https://raw.githubusercontent.com/Coinio/cosmic-ext-applet-vitals/HEAD/res/icons/dev.eidolon.cosmic-ext-applet-vitals.svg",
       image: "https://raw.githubusercontent.com/Coinio/cosmic-ext-applet-vitals/main/res/screenshots/main-image.png"
     ),
     (
       name: "cosmic-applet-music-player",
       description: "A Music Player control applet for COSMIC panel",
       repo: "https://github.com/Ebbo/cosmic-applet-music-player",
+      icon: "https://raw.githubusercontent.com/Ebbo/cosmic-applet-music-player/HEAD/res/icons/hicolor/128x128/apps/com.github.MusicPlayer.svg",
       image: "https://raw.githubusercontent.com/Ebbo/cosmic-applet-music-player/master/Music_Player_Applet_Controls.png"
     ),
     (
       name: "cosmic-applet-package-updater",
       description: "Package update notifier applet for the COSMIC desktop",
       repo: "https://github.com/Ebbo/cosmic-applet-package-updater",
+      icon: "https://raw.githubusercontent.com/Ebbo/cosmic-applet-package-updater/HEAD/res/icons/hicolor/128x128/apps/com.github.cosmic_ext.PackageUpdater.svg",
       image: "https://raw.githubusercontent.com/Ebbo/cosmic-applet-package-updater/master/screenshots/Package-Updater-Main.png"
     ),
     (
       name: "cosmic-ext-applet-systemstats",
       description: "Compact system monitor with CPU/GPU temps, memory, and network speeds",
       repo: "https://github.com/rylan-ops/cosmic-ext-applet-systemstats",
+      icon: "https://raw.githubusercontent.com/rylan-ops/cosmic-ext-applet-systemstats/HEAD/res/io.github.rylan_ops.cosmic-ext-applet-systemstats.svg",
       image: "https://raw.githubusercontent.com/rylan-ops/cosmic-ext-applet-systemstats/main/res/screenshots/systemstats.png"
     ),
     (
@@ -144,12 +158,14 @@ Applets(
       name: "cosmic-ext-connected",
       description: "Phone connectivity applet using KDE Connect",
       repo: "https://github.com/nwxnw/cosmic-connect-applet",
+      icon: "https://raw.githubusercontent.com/nwxnw/cosmic-connect-applet/HEAD/data/icons/hicolor/scalable/apps/io.github.nwxnw.cosmic-ext-connected.svg",
       image: "https://raw.githubusercontent.com/nwxnw/cosmic-connect-applet/main/screenshots/connected-applet.png"
     ),
     (
       name: "cosmic-ext-flux",
       description: "Live wallpaper engine — play video and GIF files as your desktop background with GPU-accelerated decoding, multi-monitor support, and a panel applet for playback controls.",
       repo: "https://github.com/franz-net/cosmic-ext-flux",
+      icon: "https://raw.githubusercontent.com/franz-net/cosmic-ext-flux/HEAD/applet/resources/icon.svg",
       image: "https://raw.githubusercontent.com/franz-net/cosmic-ext-flux/main/assets/screenshot.png"
     ),
     (
@@ -162,6 +178,7 @@ Applets(
       name: "cosmic-pomodoro",
       description: "Simple Pomodoro applet for COSMIC Desktop",
       repo: "https://github.com/petar030/cosmic-pomodoro",
+      icon: "https://raw.githubusercontent.com/petar030/cosmic-pomodoro/HEAD/resources/icon.svg",
       image: "https://raw.githubusercontent.com/petar030/cosmic-pomodoro/master/img/GruvboxDark.png"
     ),
     (
@@ -174,6 +191,7 @@ Applets(
       name: "cosmic-ext-applet-mounter",
       description: "Manage online mounts and offline mirrors for OneDrive, Google Drive, Box, and SMB",
       repo: "https://github.com/uutzinger/cosmic-ext-applet-mounter",
+      icon: "https://raw.githubusercontent.com/uutzinger/cosmic-ext-applet-mounter/HEAD/resources/icon.svg",
       image: "https://raw.githubusercontent.com/uutzinger/cosmic-ext-applet-mounter/master/resources/Popup.png"
     ),
     (
@@ -186,18 +204,21 @@ Applets(
       name: "cosmic-ext-applet-eyedropper",
       description: "Eyedropper applet for cosmic desktop. Pick colours from the screen.",
       repo: "https://github.com/nalladev/cosmic-ext-applet-eyedropper",
+      icon: "https://raw.githubusercontent.com/nalladev/cosmic-ext-applet-eyedropper/HEAD/resources/icon.svg",
       image: "https://raw.githubusercontent.com/nalladev/cosmic-ext-applet-eyedropper/main/resources/screenshot-2.png"
     ),
     (
       name: "cosmic-power-monitor",
       description: "Battery power monitor applet for the COSMIC™ desktop with smooth animated power display and battery bar popup",
       repo: "https://github.com/AceMythos/cosmic-power-monitor",
+      icon: "https://raw.githubusercontent.com/AceMythos/cosmic-power-monitor/HEAD/resources/io.github.AceMythos.cosmic-ext-applet-power-monitor.svg",
       image: "https://raw.githubusercontent.com/AceMythos/cosmic-power-monitor/main/screenshots/discharge.png"
     ),
     (
       name: "cosmic-ext-applet-now-playing",
       description: "Shows active media in the panel",
       repo: "https://github.com/cosmic-utils/cosmic-ext-applet-now-playing",
+      icon: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-now-playing/HEAD/res/icons/hicolor/128x128/apps/com.github.DiegoMMR.CosmicExtAppletNowPlaying.svg",
       image: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-now-playing/refs/heads/main/res/screenshot-2.png"
     ),
     (
@@ -216,6 +237,7 @@ Applets(
       name: "cosmic-applet-arch",
       description: "Applet to display Arch Linux package update status",
       repo: "https://github.com/nick42d/cosmic-applet-arch",
+      icon: "https://raw.githubusercontent.com/nick42d/cosmic-applet-arch/HEAD/res/icons/hicolor/128x128/apps/com.nick42d.CosmicAppletArch.svg",
       image: "https://github.com/user-attachments/assets/69c49436-226f-4349-afae-94d34694d565"
     ),
     (
@@ -264,24 +286,28 @@ Applets(
         name: "cosmic-ext-applet-pomodoro",
         description: "A pomodoro timer applet for the COSMIC desktop",
         repo: "https://github.com/cosmic-utils/cosmic-ext-applet-pomodoro",
+        icon: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-pomodoro/HEAD/resources/icon.svg",
         image: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-pomodoro/main/screenshot.png",
     ),
     (
         name: "cosmic-ext-applet-vigil",
         description: "Screen-awake applet for the COSMIC™ desktop — prevent your screen from sleeping with preset durations or indefinite mode",
         repo: "https://github.com/cosmic-utils/cosmic-ext-applet-vigil",
+        icon: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-vigil/HEAD/resources/icon.svg",
         image: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-vigil/main/screenshot.png",
     ),
     (
         name: "kdeconnect",
         description: "",
         repo: "https://github.com/cosmic-utils/kdeconnect",
+        icon: "https://raw.githubusercontent.com/cosmic-utils/kdeconnect/HEAD/resources/io.github.hepp3n.kdeconnect.svg",
         image: None,
     ),
     (
       name: "cosmic-ssh-launcher",
       description: "SSH launcher panel applet — quick access to hosts from ~/.ssh/config",
       repo: "https://github.com/raph-ael/cosmic-ssh-launcher",
+      icon: "https://raw.githubusercontent.com/raph-ael/cosmic-ssh-launcher/HEAD/resources/icons/hicolor/scalable/apps/icon.svg",
       image: None,
     ),
     (
@@ -294,18 +320,21 @@ Applets(
         name: "cosmic-ext-applet-drives",
         description: "",
         repo: "https://github.com/cosmic-utils/cosmic-ext-applet-drives",
+        icon: "https://raw.githubusercontent.com/cosmic-utils/cosmic-ext-applet-drives/HEAD/resources/icons/hicolor/scalable/apps/icon.svg",
         image: None,
     ),
     (
       name: "cosmic-speech-to-text",
       description: "Speech-to-text panel applet — record voice and type transcribed text into any app. Supports Mistral, OpenAI, and local whisper.cpp",
       repo: "https://github.com/raph-ael/cosmic-speech-to-text",
+      icon: "https://raw.githubusercontent.com/raph-ael/cosmic-speech-to-text/HEAD/resources/icons/hicolor/scalable/apps/icon.svg",
       image: None,
     ),
     (
       name: "cosmic-keepass",
       description: "KeePass password manager panel applet — search, copy, and manage passwords from .kdbx databases",
       repo: "https://github.com/raph-ael/cosmic-keepass",
+      icon: "https://raw.githubusercontent.com/raph-ael/cosmic-keepass/HEAD/resources/icons/hicolor/scalable/apps/icon.svg",
       image: None,
     ),
     (
@@ -318,12 +347,14 @@ Applets(
       name: "cosmictify",
       description: "Spotify panel applet for COSMIC Desktop — now playing, animated marquee, progress bar, and MPRIS media controls. Spotify-only MPRIS (won't hijack YouTube/browser players).",
       repo: "https://github.com/brunocasarotti/cosmictify",
+      icon: "https://raw.githubusercontent.com/brunocasarotti/cosmictify/HEAD/resources/icon.svg",
       image: None,
     ),
     (
       name: "cosmic-media-now-playing-applet",
       description: "A panel applet for the COSMIC™ Desktop Environment that displays the currently playing media track with lots of features.",
       repo: "https://github.com/stldave314/cosmic-media-now-playing-applet",
+      icon: "https://raw.githubusercontent.com/stldave314/cosmic-media-now-playing-applet/HEAD/resources/icon.svg",
       image: "https://github.com/stldave314/cosmic-media-now-playing-applet/raw/main/resources/screenshot-popup.png",
     ),
     (
@@ -336,6 +367,7 @@ Applets(
       name: "cosmic-ext-status-hub",
       description: "A standalone StatusNotifierItem tray for COSMIC with pinned items, multi-monitor consistency, COSMIC theme integration, app activation, and context menus in a compact panel applet.",
       repo: "https://github.com/marcelogomes90/cosmic-ext-applet-status-hub",
+      icon: "https://raw.githubusercontent.com/marcelogomes90/cosmic-ext-applet-status-hub/HEAD/resources/io.github.marcelogomes90.cosmic-ext-applet-status-hub.svg",
       image: "https://github.com/marcelogomes90/cosmic-ext-applet-status-hub/raw/main/resources/screenshots/item-menu.png",
     ),
     (
@@ -348,12 +380,14 @@ Applets(
       name: "Apsis",
       description: "System snapshot and restore",
       repo: "https://github.com/atraxsrc/apsis",
+      icon: "https://raw.githubusercontent.com/atraxsrc/apsis/HEAD/resources/icons/hicolor/scalable/apps/io.github.atraxsrc.Apsis.svg",
       image: "https://raw.githubusercontent.com/atraxsrc/apsis/v0.6.2/docs/4.png",
     ),
     (
       name: "Orbit",
       description: "A native file shelf and panel applet for the COSMIC™ desktop.",
       repo: "https://github.com/motixo/orbit",
+      icon: "https://raw.githubusercontent.com/motixo/orbit/HEAD/resources/icons/hicolor/scalable/apps/io.github.motixo.Orbit.svg",
       image: "https://raw.githubusercontent.com/motixo/orbit/main/.github/showcase/orbit2.gif",
     ),
     (
@@ -366,6 +400,7 @@ Applets(
       name: "Puron",
       description: "COSMIC™ panel applet that shows hardware sensor readings: temperatures, fan speeds, voltages and liquid cooling.",
       repo: "https://github.com/elalonde/puron",
+      icon: "https://raw.githubusercontent.com/elalonde/puron/HEAD/data/icons/hicolor/scalable/apps/io.github.elalonde.Puron.svg",
       image: "https://raw.githubusercontent.com/elalonde/puron/master/docs/screenshot.png",
     ),
   ]

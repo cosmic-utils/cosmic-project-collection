@@ -19,6 +19,7 @@ pub fn generate() -> std::io::Result<()> {
 
     readme.push_str("\n## How to add your project?\n");
     readme.push_str("To add your project to this list, please open a pull request with your project added to the `applications.ron` or `applets.ron` file.\n");
+    readme.push_str("\nIf your project has an app icon, add an optional `icon` field with a direct URL to the icon asset. Use `image` for the screenshot.\n");
 
     std::fs::write("README.md", readme)
 }
@@ -26,11 +27,11 @@ pub fn generate() -> std::io::Result<()> {
 fn write_applications(readme: &mut String, applications: Applications) {
     readme.push_str("## Applications\n");
 
-    readme.push_str("| Name | Description | Image |\n");
-    readme.push_str("|---|---|---|\n");
+    readme.push_str("| Icon | Name | Description | Image |\n");
+    readme.push_str("|---|---|---|---|\n");
 
     for app in applications.list {
-        let mut row = String::new();
+        let mut row = icon_cell(app.icon.as_deref());
 
         row.push_str(&format!(
             "| [{}]({}) | {} |",
@@ -54,11 +55,11 @@ fn write_applications(readme: &mut String, applications: Applications) {
 fn write_applets(readme: &mut String, applets: Applets) {
     readme.push_str("\n## Applets\n");
 
-    readme.push_str("| Name | Description | Image |\n");
-    readme.push_str("|---|---|---|\n");
+    readme.push_str("| Icon | Name | Description | Image |\n");
+    readme.push_str("|---|---|---|---|\n");
 
     for applet in applets.list {
-        let mut row = String::new();
+        let mut row = icon_cell(applet.icon.as_deref());
 
         row.push_str(&format!(
             "| [{}]({}) | {} |",
@@ -76,6 +77,13 @@ fn write_applets(readme: &mut String, applets: Applets) {
         }
 
         readme.push_str(&row);
+    }
+}
+
+fn icon_cell(icon: Option<&str>) -> String {
+    match icon {
+        Some(url) => format!(r#"| <img src="{}" alt="" width="128" height="128"/> "#, url),
+        None => String::from("| "),
     }
 }
 
